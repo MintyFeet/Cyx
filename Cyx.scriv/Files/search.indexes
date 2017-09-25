@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="4">
+            <Title>Prologues</Title>
+        </Document>
+        <Document ID="11">
+            <Title>E-Book</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Novel Format</Title>
+            <Text>NOVEL FORMAT
+
+About This Template
+By default, when compiled (File &gt; Compile), this project will generate a document in the standard manuscript format for novels. The necessary settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle e-book.
+
+How To Use This Template
+Create a new folder for each chapter and title each folder with the name of the chapter. If you don’t intend to use chapter names, just use something descriptive that tells you what the chapter is about. (You do not need to—and indeed shouldn’t—title the folders “Chapter One” and so on, because chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.
+Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+
+Compiling
+Title pages and front matter are all provided in the “Front Matter” folder (between the “Places” and “Research” folders). You will choose different front matter depending on the format to which you are compiling.
+Scrivener remembers your compile settings, so you only need to follow the instructions below when you want to compile to a different format. After that, you can just go to File &gt; Compile… and click the “Compile” button straight away.
+
+To compile to standard manuscript format:
+Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information. (The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; placeholders will be replaced during compile with the information you provide in the Project Properties tab of Project &gt; Meta-Data Settings…, or you can delete them and enter whatever text you like.)
+Go to File &gt; Compile…
+Select “Standard Manuscript Format” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+Ensure that the “Add front matter” option is ticked and select the “Manuscript Format” folder from the menu button next to it (this is already selected by default).
+Click “Compile”.
+
+To compile to paperback PDF format:
+Edit the front matter pages contained inside the Front Matter/Paperback Novel folder.
+Go to File &gt; Compile…
+Select “Paperback Novel” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+Ensure that the “Add front matter” button is ticked and select the “Paperback Novel” folder from the menu button next to it if it is not already selected.
+Click “Compile”.
+
+To compile to e-book format:
+Edit or remove the dedication page contained inside the Front Matter/E-Book folder. Feel free to add any other front matter documents as required.
+Import a cover image (the recommended size is 600x800 pixels, preferably in JPG or PNG format). You can store this anywhere, but it makes sense to place it in the “E-Book” front matter folder. A placeholder cover image is already provided—you will want to delete that once you have imported your own.
+Go to File &gt; Compile…
+Select “E-book (with Parts)” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+If you have front matter documents other than the cover image, ensure that the “Add front matter” option is ticked and select the “E-Book” folder from the menu button next to it if it is not already selected. If you don’t have any front matter documents, you can un-tick “Add front matter”. (This does not affect the cover image.)
+If you have imported your own cover image, be sure to click “Cover” in the left sidebar and select the image from the “Cover Image” menu button.
+From the “Compile for” menu button, choose whether to export to EPUB or Kindle format.
+Click “Compile”.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+Project and author name: The default book title and author name used in headers and elsewhere can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
+Chapter subtitles: If you don’t want to include the names of your chapter folders below the chapter numbering text in the compiled document, go to the “Formatting” pane in the Compile dialog and deselect “Title” in the list of elements to include.
+Page header and footer: You can edit the page header in the “Page Settings” pane of the Compile dialog.
+Page size: The “Paperback Novel” format is set to export to a page size of 5.06” x 7.81”, which is one of the formats you can use with CreateSpace. You can customise this by clicking on the “Page Setup…” button in the “Page Settings” pane of Compile.
+Font: You can use the “Formatting” pane in Compile to change the font used in the final document by selecting a row in the elements table, then clicking into the preview text to select it and clicking the “A” button in the format bar to change the font settings. Note that fonts are not included in e-books, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a particular font in an e-book).
+Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
+Rename the “Scene” document to use your chapter title and move it so that it is on the same level as the “Chapter” folder rather than being inside it.
+Move the “Chapter” folder to the Trash.
+Create a new text document for each chapter.
+In the “Separators” pane of the Compile dialog, change the “Text separator” setting to “Page break”.
+If your scene separators are centred (for instance if you are using “#” as the scene separator) and you want them to appear centred in the compiled document, too, select them and choose Format &gt; Formatting &gt; Preserve Formatting.
+Everything else: The above constitutes only the most common changes. You can completely change the output format by changing the various settings available in Compile.
+
+Sample Documents
+The “Sample Output” folder inside the Research folder contains examples of documents that have been created by compiling from this template. “Standard Manuscript” shows the results when compiling to “Standard Manuscript Format”; “Paperback Novel” shows the results when compiling to “Paperback Novel” format; and “ADE E-book” shows the results when compiling to “E-book” format and opening the resulting EPUB file in Adobe Digital Editions on Windows.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Paperback Novel</Title>
+        </Document>
+        <Document ID="14">
+            <Title>Manuscript Format</Title>
+        </Document>
+        <Document ID="16">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+Insert dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="17">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Copyright</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © year &lt;$fullname&gt;
+All rights reserved.
+ISBN:
+ISBN-13:</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="20">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+&lt;$fullname&gt;</Text>
+            <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="22">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+Your dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="23">
+            <Title>Cover</Title>
+        </Document>
+        <Document ID="24">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+		Role in Story:	
+
+		Related Characters:	
+
+		Season:	
+
+		Unique Features:	
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Character Sketch</Title>
+            <Text>Name
+
+
+Nicknames: Baatar (shortened name used by friends), “Dragon-lass” (used by Aldis, much to Baatar’s chagrin)
+Epithet: 
+
+Race: Xaela Au Ra
+Class: Marauder —&gt; Warrior
+Sub-Class (HW): ???
+Skills: Culinary, Mining
+
+Born: 1554 (6th Astral)
+Age (beginning of A Realm Reborn): 23
+
+Parents: Chinjaal Kha(Mother, deceased 1558), Ganbaatar Kha (Father, deceased 1558). Both killed by Garleans during the Kha’s initial flight to Eorzea. Idertuuya Kha (Stepmother, 53)
+
+Echo: Conceptual Reinforcement</Text>
+        </Document>
+        <Document ID="29">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="40">
+            <Title>Title Page</Title>
+        </Document>
+        <Document ID="41">
+            <Title>Warriors of Light</Title>
+        </Document>
+        <Document ID="42">
+            <Title>Baatarsaikhan Kha</Title>
+            <Text>Baatarsaikhan Kha
+
+
+
+Nicknames: Baatar (shortened name used by friends), “Dragon-lass” (used by Aldis, much to Baatar’s chagrin)
+Epithet: “
+
+Race: Xaela Au Ra
+Class: Marauder —&gt; Warrior
+Sub-Class: ? (Heavensward), Commando (Stormblood)
+Skills: Culinary, Mining
+
+Born: 1554 (6th Astral)
+Age (beginning of A Realm Reborn): 23
+
+Parents: Chinjaal Kha(Mother, deceased 1558), Gonbaatar Kha (Father, deceased 1558). Both killed by Garleans during the Kha’s initial flight to Eorzea. Idertuuya Kha (Stepmother, 53)
+Siblings: Momolk Molkoh (Adoptive), Xomni’to Molkoh (Adoptive)
+
+Echo: Conceptual Reinforcement
+
+Baatarsaikhan’s Echo acts as a low-yield reality-warping power which takes her own conception of the world and pushes objective reality towards that concept. It has been constantly active since the Calamity, and Baatar makes unconscious use of it on a daily basis; even something as innocuous as “wanting to drink more alcohol without being sick” makes use of the power, letting her consume more alcohol than her body could ever feasibly ingest - because Baatar believes that she can drink more, she can.
+
+This power is not limitless; it is fueled and tied directly to her anima and willpower. Furthermore, she can only distort reality so much and so far before objective reality re-asserts itself; in her first activation of CR, Baatar was able to “convince” reality that she could walk and carry the Molkohs despite having two broken legs, broken ribs and other serious injuries; the second she stopped focusing on getting the Molkohs medical help because she reached her destination her echo shut off (she was put to sleep before the effects could be felt.) CR allows Baatar to “break her limits” and achieve the impossible, often without realizing it. It is also important to note that this effect works in reverse; Baatar, who never excelled at traditional “book learning” in her youth, continues to have difficulty with such despite her being more than capable of technically learning these things as an adult. CR takes her conception that she is not good at studies and reinforces it, making it harder (and in some cases nigh impossible) for her to achieve anything in that field.
+
+
+Class Info
+
+WARRIOR
+
+Baatarsaikhan’s natural affinity for anger - especially towards Garleans - and her strong, often solidly black-and-white sense of justice makes her a perfect candidate for being a Warrior. Her subconscious (and eventually conscious) desire for violence and conflict, combined with this seething rage which sits beneath the surface of her personality means that, since a young age, Baatar has been “in tune” with her Inner Beast; unlike most Warriors, who contend with their Inner Beast before and after their training, Baatarsaikhan generally has no trouble keeping it in control. Unleashing her Inner Beast is not letting loose, or unleashing a monster kept in check - it’s simply her showing her “true colours.”
+
+Strong emotions and events can still push her over the edge and cause Baatar to begin to lose control of the Inner Beast, though it is difficult; Gaius van Baelsar and his Tribunes are the only ones who can reliably cause this to happen.
+
+COMMANDO
+
+By Stormblood, Baatarsaikhan has, unlike her allies, not taken a second sub-class; she’s spent so much time mastering her skills as a WAR and dabbling in a variety of other fields of martial skill that she develops a unique fighting style which incorporates elements from just about every martial guild and style she’s come across. The Eorzean Alliance’s special forces - eventually christened “Commandos” after an old Galadhish word, “kommant” - are quick to adopt a similar style inspired by Baatar and many of the adventurers-turned-soldiers in the EA who have formed their own unique mish-mash of fighting styles. The “commando” fighting style’s ethos calls for proficiency with just about any weapon; while Baatar still favours the axe, when SB begins she’s proficient at more or less every weapon in the EA’s arsenal, from marksmanship and unarmed combat to swordplay and archery. 
+
+
+
+Biography:
+
+
+Before Eorzea
+
+Baatarsaikhan Kha was born in 1554-6A on the Azim Steppe; she was raised until the age of 4 on the Steppe in a small offshoot of the Kha tribe, who unlike most Steppe-dwellers lived on the fringes of Xaela territory and actively sought out elements of non-Auri culture. Thus, Baatar learned to speak not only Xaela, but also Eorzean - and, if she had remained on the Steppe, would have learned Yamago as well.
+
+Due to the threat of both Garlean incursion and other, more hostile tribes, part of the Kha tribe elected to flee the Steppe; thanks to their contacts with off-continent traders, this offshoot was able to make a deal with the crew of the Little Kweh, and arraigned to be given passage to Eorzea. Leading up to the day of pickup (7-2U-6A), Garlean troop movement and hostile tribes forced the refugees to move closer to the city; Garlean regulars captured several of the clan’s scouts and forced them to make a run for the ships in the early morning of the 8th. In the rush through the captured port, a good portion of the clan was killed; of the 79 people who intended to make the journey to Eorzea only 28 actually made it to the boats. Chinjaal and Gonbaatar both died holding back the Garlean troops.
+
+Baatar spent the next two months aboard the Little Kweh; though she and the other refugees were kept belowdecks whenever the ship was in port she was still able to receive gifts from each port, as well as instruction in Eorzean Common, numbers and figures. She also was instructed in the basics of Steppe-living (survival tactics, cooking, and the basics of axe, sword, spear and bow.) She took to the axe quickly, and would strike up a friendship with many of the crew - including Pfarberk Iyrnfhissyn and Arnar Young. 
+
+Adapting to Eorzea
+
+
+
+
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="43">
+            <Title>Momolk Molkoh</Title>
+            <Text>Name: Momolk Molkoh
+
+Race: Dunesfolk Lalafell
+Class: Arcanist —&gt; Scholar
+Sub-Class (HW): Dark Knight
+Skills: Alchemist, Fishing
+
+Born: 1554 (6th Astral)
+Age (as of Arc I): 23
+Parents: Unknown
+
+Echo: Aetherconstruction Intuition
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="44">
+            <Title>Xomni'to Molkoh</Title>
+            <Text>Name: Xomni’to Molkoh
+
+Race: Keeper of the Moon Miqo’te
+Class: Arcanist —&gt; Summoner
+Sub-Class (HW): Machinist
+Skills: Goldsmith, Miner
+
+Born: 1554 (6th Astral)
+Age (as of Arc I): 23
+Parents: Unknown
+
+Echo: Aetherconstruction Intuition</Text>
+        </Document>
+        <Document ID="45">
+            <Title>Kanna Minamoto</Title>
+            <Text>Name: Kanna Minamoto
+
+Race: Raen Au Ra
+Class: Ronin —&gt; Samurai
+Sub-Class (HW): Astrologian
+Skills: Culinarian, Botanist, Fishing, Weaving
+
+
+Born: 1558 (6th Astral)
+Age (as of Arc I): 11
+Parents: Reiko Minamoto (Mother, 48), Keisuke Minamoto (Father, 50, Dying of unknown illness)
+
+
+Echo: Clarivoyance
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="46">
+            <Title>Light Party</Title>
+        </Document>
+        <Document ID="47">
+            <Title>Adventurer Allies</Title>
+        </Document>
+        <Document ID="49">
+            <Title>D'namis Tia</Title>
+            <Text>Name: D’namis Tia
+Race: Sunseeker Miqo'te
+Class: White Mage 
+Skills: Botanist
+
+Background:D’namis was born to a family of farmers in Summerford as the eldest of three children and showed a close affinity for all things natural. During their usual bi-monthly trade visit with his 
+parents to the Botanist’s Guild in Gridania when he was 13, D’namis accidentally stumped upon the Conjurer’s Guild and managed to sit in on the day’s lectures without anyone noticing that he was, 
+in fact, not a student. Figuring there was little to lose, D’namis was given preliminary testing and showed a great deal of potential in conjury. He would continue to attend classes at the guild during 
+these visits until his explanation of being able to “hear the earth and the water” was found out; after that, the guild took an active interest in recruiting him. At the age of 16 he was allowed to 
+leave him and stayed in Gridania for training; as a trainee he was charged with assisting healing of long-term wounded, and as such was away from the frontlines during the Calamity.
+
+
+Personality: Chill and relaxed when socializing, feels like he babysit's children while healing. Tough-love bedside manner
+
+Note: Skilled Botanist and scholar (book-lover not the healer job). Minor Alchemist specializing in wand/staff lore 
+
+Echo: Nature Attunement</Text>
+        </Document>
+        <Document ID="50">
+            <Title>Mihkhi Khamun</Title>
+            <Text>Name: Minkhi Khamun
+
+Race: Keeper of The Moon, Miqo’te
+Class: Black Mage
+Sub-Class (HW): ???
+Skills: Culinary, Mining
+
+Born: 1556 (6th Astral)
+Age (as of Arc I): 21
+Parents: Rane Khamun, Aroh'to Khamun
+
+I would like to submit my character for use in Cyx! Her name is Mickey Katmunch, and she is a Keeper of the Moon Black Mage hailing from Gridinia, but working for the Maelstorm. Clearly, the name needs to go, but I would love to see a character similar to her pop up in a full party, even under a completely different name. 
+For back story I was thinking something along the lines of working with the conjurer's guild near Ampador and stumbling apon and ancient Black Mage artifact captured by the White Mages and becoming intrigued by the power teased by it. She ends up traveling to Ul'dah to learn more, eventually becoming a Black Mage. From there she is contracted by various privateers as a living artillery piece for use to disable ships. This, eventually, gets her a place serving with the Maelstorm. 
+Personality wise, she would be of a mercenary bent and with a bit of a hot head born from a boredom of constant elemental pleasing. She is always looking to test new magics, with getting payed to do so all the better.
+
+Clothes would be the Battlemages set because nothing beats the classics. 
+I am not married to the vast majority of this and would be happy to see most of it thrown out. Also, if this doesn't work for any reason and you don't what her in, just let me know. Lord knows cat-girls are a dime a dozen.</Text>
+        </Document>
+        <Document ID="51">
+            <Title>Bradley Norwood</Title>
+            <Text>Name: Bradley Norwood
+
+Race: Midlander Hyur
+Class: Monk
+Sub-Class (HW): ???
+Skills: Culinary, Mining
+
+Born: 1549 (6th Astral)
+Age (as of Arc I): 28
+Parents: Petra Norwood, Delwyn Norwood
+
+
+Bradley grew up in Gridania; his mother was a hunter and his father a lumberjack. Following both throughout his childhood he quickly grew to develop a love of exploration; despite his parents desire for him to remain safe 
+
+
+Has a highly self-deprecating sense of humor, and always has a random well-studied fact or tidbit of information semi-tangentially connected to a conversation. Can be a little bit of a show off when it comes to his agility. Bit of a night-owl.
+
+Grew up in Gridania, and loves to explore while climbing through the forests. Started travelling after having exploring every nook and cranny of the Black shroud. Once he arrived in Ul'dah, he discovered the Pugilist's guild, a perfect fit for someone with a balanced, active body like him, which lead to him quickly learning the art before setting off on his adventures once more. He's not very religious so he doesn't care for the spiritual side of the Fist of Rhalgr, but he doesn't mind those that do good for others in the name of religion. What you did for someone is more important than why you did it, in that regard. You do your thing, he'll do his. As long as they both help people, he's happy.</Text>
+        </Document>
+        <Document ID="52">
+            <Title>Future Ideas</Title>
+            <Text>- Curious Gorge to Baatar: “YOU LOOK REAL PURTY THERE, DRAGON LADY&quot;
+
+- First time they travel to the Observatorium, they run into a certain Pillars-bred ponce as he's walking away from having his proposal rejected for the Nth time in a row.
+His reaction when he sees Baatar and Kanna?
+Hint hint: It illicits this from Momolk: &quot;...well, I never expected to have to say this about that, but... well, I told you so.&quot;And to confirm, he starts reciting thusly: &quot;THE POWER OF HALONE COMPELS YOU! THE POWER OF HALONE COMPELS YOU!&quot;
+</Text>
+        </Document>
+        <Document ID="53">
+            <Title>Prologue 1: Flight</Title>
+        </Document>
+        <Document ID="54">
+            <Title>The Escape</Title>
+            <Text>PROLOGUE ONE: FLIGHT
+8TH SUN OF THE SECOND UMBRAL MOON
+YEAR 1558 OF THE SIXTH ASTRAL ERA
+Isari, East Othard Coastline, The Ruby Sea
+
+
+
+
+&quot;Eeja, why do we have to wake up? It is still dark,&quot; the little girl said, tugging at her blanket.
+
+&quot;Baatarsaikhan, there is no time. Please, get up!&quot; Her mother didn't wait for the girl to get out of bed; rather, she simply picked the girl up, grabbed her emergency satchel, slung her over her shoulder and ran from the yurt. The entire village, the girl thought, was up and about and the sun was not yet up! They were loading their things into the carts, and every horse in the village was out of stable and loaded with bags.
+
+&quot;Eeja, where is aawa? Why is everyone going for travel?&quot; Her mother set her down outside their yurt and hushed her, kneeling down.
+
+&quot;Baatar, you must stay here.&quot; Her mother stepped forward to an archer-horseman who had just ridden into the camp proper. The archer had blood on him, and his quiver was empty. &quot;Nergui, where are the others?&quot;
+
+The archer slid from his horse, pulled a skin from his mount's bags and drank heavily for a moment. &quot;Lost, Chinjaal. Many to the Garlean bastards and their cursed guns, others to the night. Gan took a few of the others, said he had a plan to hold them off a bit longer.&quot;
+
+Her mother scowled and stepped forward again; her horns nearly touched the archer's face. &quot;You let Gan take them on a fool's errand? Nergui, you know how stubborn-&quot;
+
+&quot;-he's your mate, not mine,&quot; the archer said, shaking his head. &quot;I tried to stop him, and he threatened to cut me in two if I did not move. He said he and the others would meet us at the docks.&quot;
+
+&quot;Nhaama above, if he does not return I will-&quot;
+
+&quot;-I know, I know, I know. You can do as you like if he does not show, but I beg you to wait until we are on the sea.&quot;
+
+Her mother said nothing, simply backing away before turning back to the girl. &quot;Baatar, we must leave.&quot;
+
+&quot;The Garleans?&quot; she asked, doing her best to keep the fear out of her voice.
+
+&quot;Yes, little warrior. Aawa is going to meet us before we leave, okay? You must stay very close to me, and hold on tight. Like we practiced.&quot; Her mother touched heads with the girl. &quot;If anything happens to me, you must find the clansfolk and follow them.&quot;
+
+&quot;Yes, eeja.&quot;
+
+&quot;Good, little one. Let us go now.&quot; Chinjaal led her daughter to the outcropping where the horses were waiting, grabbed her pack from their family's post and slung it over her shoulders. She helped Baatarsaikhan onto the horse; Baatar liked the horse very much. She had painted yellow on him like the horsebirds she had seen in a book of the lands beyond the steppe, and so her mother had named the creature Shar.
+
+&quot;Hello, Shar,&quot; the girl said, patting his mane. &quot;Are you afraid?&quot; The horse simply shuddered. &quot;I am afraid too, but eeja says it is not good to be scared all the time.&quot;
+
+A few minutes later, her mother mounted the horse. &quot;Hold on tightly, Baatar,&quot; she said, joining the rest of the clansfollk at the edge of the village. Most of the others were mounted on horse, but some, like uwuh Otgon and the youngest of the children were in carts. The entire village left as one, leaving behind the small village that was the only home Baatarsaikhan had known. It faded, first into a small speck, then to nothing, as the clan rode into the night.
+
+She fell asleep, lulled by the rhythm of horse-hooves on steppe.
+
+When she awoke, they were at the waters and the sun was beginning to rise. They were at the town of Yanshara, where sometimes traders would come from from Kugane, and on the rarest of occasions, from Eorzea. Baatar had never seen a ship from Eorzea, but her eeja had bought the book with animals of Eorzea drawn within many sleeps ago, when she was still a baby. That was the book with the horsebird, the green-spike, the slime and even the dragons! Baatar checked her satchel and sighed in relief, because her book was amongst the few luxuries she was allowed to put inside the bag. She looked up and saw that the villagers were on the outskirts of the town; nobody had come to greet them, but she could see many masts from the biggest ships - they had metal on them! - she had ever seen. She rubbed her eyes, and tapped her mother on the back. &quot;Eeja, is that big boat where we are going?&quot;
+
+&quot;Yes, little warrior,&quot; her mother said with a big smile. &quot;That boat is from far away!&quot;
+
+&quot;But what about the steppe?&quot;
+
+&quot;It is dangerous, too dangerous to stay now,&quot; Chinjaal said, turning to face her daughter. &quot;Some of the other clans are too stubborn to leave, but remember what I taught you?&quot;
+
+&quot;Uhm...you always have to be - no, uhm, do what's right. Even if it's not the happiest thing.&quot;
+
+&quot;Exactly. Such a smart girl,&quot; her mother said, rubbing her hair. Chinjaal paused as one of the warriors, this one carrying a sword and shield, rode up to her. &quot;Askaa? What's wrong?&quot;
+
+&quot;Town's empty,&quot; said the man. &quot;And one of the archers saw the decks of the boats; they're near empty, too. Someone gestured at us from the deck of one before being pulled back down - this reeks of a trap.&quot;
+
+&quot;Mmm. Take Baatarsaikhan to Idree and round up some of the scouts. We'll take a look around, see if we can't divine what's going on. Any sign of Gan?&quot;
+
+&quot;I'm afraid not, Chinjaal.&quot; The man shook his head, and stared off into the distant steppe. &quot;I do-&quot; He stopped suddenly, glancing at Baatarsaikhan. &quot;-don't know where he is. He should be here already.&quot;
+
+Her mother made a face that she hadn't seen before. It looked angry and sad at the same time.
+
+&quot;We will make do. Have the men meet me at the front when we are ready.&quot; The swordsman rode to the side, and plucked Baatarsaikhan from Shar's saddle.
+
+&quot;Hello, little warrior,&quot; Askaa said. &quot;Come now, I'm to take you to Aunty Idree.&quot;
+
+&quot;Aunty Idree is mean. She never lets me play,&quot; Baatar said, pouting. &quot;But please don't tell her I said that.&quot;
+
+Askaa laughed -- grimly, Chinjaal noted, though her young daughter seemed unaware -- and patted her on the head. &quot;I promise not to tell, but you must listen to me like you listen to your mother, okay?&quot;
+
+&quot;Okay!&quot;
+
+&quot;Good. Chinjaal, I'll be back in a moment.&quot; Askaa rode over to another woman, this one with long hair, who sat alone on her own horse, and plopped Baatar onto her saddle. &quot;Idertuuya, Chinjaal needs scouts for the town - wanted you to watch our little warrior here.&quot;
+
+&quot;Of course. Hunt well, Askaa. Baatarsaikhan, do you need to relieve yourself? Are you hungry?&quot;
+
+&quot;I am thirsty, Aunty Idree.&quot;
+
+&quot;Well, I have just the thing,&quot; the woman said, passing her a skin. &quot;I saved a little bit of tsai from before, if you would like.&quot;
+
+Baatarsaikhan drank the tea and ate a piece of jerky, then read from her pictures-book. She was about to ask to get off the saddle and go for a walk to the other villagers when a tall, hulking man that Baatar did not recognize rode up to them. &quot;Chinjaal found Gan and the others - and a bunch of the sailors - locked up in a jailhouse. Garleans are everywhere, and there are even some on the boats.&quot;
+
+&quot;Damnation,&quot; Idree said. &quot;She's made a plan?&quot;
+
+&quot;Indeed. The scouts will work to free as many folk as they can. Second they can't stay hidden, they'll sound the horn and we're to move everyone as fast as we can onto the docks. We help clear out the boats of the Garleans, get everyone on board and make our escape.&quot;
+
+&quot;And if things go wrong?&quot;
+
+&quot;We improvise. Come on, we need to get ready to move.&quot; The man rode off without another word, and Aunty Idree turned to Baatar. &quot;Did you understand that, little one?&quot;
+
+&quot;Um, eeja found aawa? But there are bad Garleans in the town, and we have to wait until, uhm, the horn is blown. Then we are okay to go on the boats?&quot;
+
+&quot;Yes, little warrior. Stay close.&quot;
+
+Baatar waited, and waited, and waited, when suddenly the horn was blown. The entire village's group took off into village; Baatar heard the sounds of fighting but was too busy holding on tight to Aunty Idree to notice what was going on. She could not remember what was happening when they reached the docks, because it was too loud, and there was fighting and blood everywhere; all she remembered was Aunty Idree turning to throw her off the horse, and someone carrying her away. There was more shouting, and the terrifying sounds of the Garlean guns - bang, bang, bang - and she fell to the ground, blood in her eyes. She could not cry, and so she wiped the blood from her eyes to see Nergui dead before her; she was standing on a ramp to one of the boats, not sure how she had gotten there or what to do. But her mother had said that she had to get to the boat, so she climbed the ramp as fast as she could. She was about to board the ship when something grabbed her tail and flung her to the deck; moments later, a cluster of metal balls shrieked into the wood next to her. A bald hyur, one of those hornless folk, raised a shield and knelt behind it next to Baatar.
+
+&quot;Fucking hells that was a close one. Oi, kid, you're not hurt, eh?&quot;
+
+Baatar didn't quite understand all the words he was saying through his strange accent, but she shook her head.
+
+&quot;Good, good. Listen, lass, stay low - crawl, like - and get yourself over to the big fella, the one with the axe over there, right? Can ya do that for me?&quot;
+
+She nodded, noticing a giant man with red skin beckoning at her.
+
+&quot;You stay low, you'll be fine. He'll bring you into the ship and you'll be nice and safe. Go!&quot;
+
+She crawled, doing her best to ignore the screaming and shouting and the blood on the deck that was staining her tunic. She crawled and crawled and crawled, forever it seemed like, until finally she reached the giant. He picked her up and carried her down into the belly of the ship, and pointed at a bunch of crates in the corner. &quot;Get yourself tucked in behind those there boxes, and you'll be safe. Anyone tries to get you out of there that you're not sure about, you ask'em what they put in the grog last moon. If they don't say oranges, you don't move. Good?&quot;
+
+Baatar nodded and crawled behind the crates, and curled into as small a ball as she could make herself.
+
+It seemed like another day when the shouting and fighting stopped. She heard people calling to her, but simply curled up tighter and thought of home. &quot;Lass,&quot; a voice said, &quot;it's safe to come out! Come on, where'd Pfarberk put ya? Bloody idiot, probably told her a code or summat. Oi! Lass! Did the big red fella tell you t'ask a question?&quot;
+
+She snapped out of her shock and frantically put as much calm into her voice as she could. &quot;What, what did they put in the g-grog last moon?&quot;
+
+&quot;Put in the g- ha! Pfarberk, you salty old shite. Oranges, lass! Nisfa thought he'd make that stuff taste better, ruined the whole batch, he did.&quot;
+
+Baatar stood on her toes and looked over the crates to find a hyur standing in front of the hatch, sword at his hip and a shield slung over his back; a few of the villagefolk were with him, looking at her with relief and sadness.
+
+&quot;Is it safe now?&quot;
+
+&quot;Safe as it gets on a boat like this'n, milady. Come on, we've got to see about getting you cleaned up and see if we can't find yer parents.&quot;
+
+Baatar followed the hyur - who had dark skin and golden hair pulled into a strange-looking ponytail - up out of the depths of the creaking boat and up onto the deck. Despite her best efforts to remain calm, she couldn't help but stop and marvel - for, in every direction, there was nothing but water! Blue as the sky, crystal-clear and as far as the eye could see.
+
+&quot;Mmm, beauty, 'aint she? That'll be the sea, lass.&quot; The hyur turned, smiled at Baatar and pat her on the head. &quot;There's nothing like the open sea. But we'll be on this here ship for plenty a day - so come on, let's go take a look-see at the adults, alright?&quot;
+
+Baatar tore her eyes away from the sea as best she could - a difficult prospect, given that they were on a boat - and followed the man up a small flight of stairs to a higher deck. There, many of the auri she'd ridden with, mostly adults but with a few children mixed in - and some she hadn't seen before or in a long time- were clustered together, seated, nursing wounds, staring off into space. Other sailors were handing out food, bandages and mugs of drink; Baatar marveled at how different they all looked. She recognized the sailors from her old pictures-book: tiny lalafell as short as she was, giant roegadyn who towered over even the biggest of the adults she knew, miqo'te with strange, pointy ears and tails that were furry instead of scaled.
+
+&quot;Pfarberk!&quot; The man escorting her shouted, waved and sauntered over to the big, red-skinned roegadyn who was kneeling by several of the injured adults - aunty Idree among them.
+
+&quot;Oi, Arnar, glad to see you found our little lady,&quot; the giant said, smiling. &quot;Well, lass - Baa-tar-sai-khan,&quot; he said, sounding out the name, &quot;come here and let's see if we can't find kith or kin amongst our fellows here.&quot;
+
+&quot;Oh, little warrior,&quot; Idree said, clutching at a heavily bandaged arm. &quot;Oh, come here.&quot;
+
+Baatar walked over and plopped herself down, cross-legged, in front of her aunt and frowned. &quot;How come the others are not looking at me?&quot;
+
+&quot;Shite,&quot; Pfarberk hissed, leaning in to whisper into Idree's ears. &quot;You mean-&quot;
+
+&quot;-she would find out soon enough, master sailor,&quot; Idree replied with a sad, distant look on her face. &quot;Young ones are smart - she would figure out soon enough, and I would not be the one to lie to her.&quot;
+
+&quot;Why are you whispering?&quot; Baatar asked, confused. &quot;Where's eeja? Where's aawa?&quot;
+
+&quot;They did not make it to the boat, little warrior,&quot; Idree said, expression furious and eyes welling up.
+
+&quot;But where are they?&quot;
+
+&quot;They...they died, holding the soldiers back. Killed by the Garleans, so we - you - could all escape on the boats, Baatar.&quot;
+
+She blinked.
+
+&quot;No.&quot;
+
+&quot;I'm sorry, little warrior.&quot;
+
+&quot;NO!&quot; Baatar stood up, shouted, stamped her feet and rushed at the red giant, swinging her tiny balled-up fists at him. &quot;NO! NO NO NO! You turn the boat back! I want eeja and aawa back! Make them come back r-!&quot;
+
+&quot;-shh, lass, shh, it'll be alright, shh, it's okay, it's okay,&quot; Pfarberk said, overpowering the tiny girl with a hug. &quot;Shh, shh, it's alright lass, it's all right.&quot;
+
+&quot;Baatarsaikhan, you can cry but you will not attack the sailor!&quot; Idree commanded.
+
+Baatar stopped struggling, but she did not stop crying.
+
+She did not stop crying for many days, it felt like.
+
+She recalled being in the dark, groaning hold of the ship, swaddled in blankets and being passed around, sung to by both the sailors and her own clanmates. Rocked back and forth by the waves. She only awoke from her daze to relieve herself, to eat whatever food was put in front of her.
+
+She did not know when she stopped crying, but, many suns and moons later, she stopped at last. When her emee had died - she never knew her övöö - she had cried for a while and had been sad for many many days after, but this was different. Now, it was like she had cried all the sad out of her and Baatar was only angry, furious, full of simmering rage at the Garleans who had stolen her family and her land and her world.
+
+One night, finally calmed enough to speak, Baatar joined some of the sailors and her clansfolk around a small fire set up on the highest deck of the ship. The adults looked mournful as she arrived at first, but when they saw the fire in her eyes many smiled thinly, nodding with obvious approval.
+
+&quot;Baatarasaikhan,&quot; aunty Idree said, hoisting Baatar onto her lap. &quot;How are you this moon?&quot;
+
+&quot;I am sad,&quot; Baatar said slowly. &quot;But...but eeja and aawa are gone now, to the Moon Mother. They have to stay there, and I have to stay here. So I will try not to be too sad.&quot;
+
+&quot;It is okay to miss your family, little warrior, but not so much that you do not live,&quot; Yesui - the best cook in the village - said with a warm, knowing smile. &quot;You should never not be sad about your eeja and aawa - but they would not wish you to be forever crying.&quot;
+Baatarsaikhan Kha
+&quot;Yes,&quot; Baatar replied. &quot;Did they...did they kill many Garleans?&quot;
+
+The auri around the fire nodded, mumbled words of prayer and assent - and even some of the sailors seemed to be nodding, too.
+
+&quot;The ones that stayed behind, lass,&quot; one of the tiny-men - a lalafell with a tuft of black hair and a curly mustache - said with awe, &quot;they fought like nothing else. If those damned Garleans hadn't shown up with their blasted walkers they'd be with us.&quot;
+
+&quot;Nothing like it,&quot; said one of the miqo'te, swishing her tail. &quot;Like the best of the gladiators on the bloodsands, I'd wager.&quot;
+
+&quot;They died fighting,&quot; Pfarberk - who was sitting next to Idree - said slowly. &quot;Dying's not something ya want, lass, but if you have to go....they went with honour.&quot;
+
+Baatar thought, thought, and thought. She thought while they ate strange stew and drank strange juices, and soon they had to go back under the decks into the ship to sleep - but on the way down, Baatar spotted Pfarberk standing by the railings of the ship, staring out at the endless waters, sharpening his axe with a whetstone. He paused as he heard Baatar's soft, light footsteps, and turned.
+
+&quot;Lass, shouldn't you be getting some shut-eye?&quot;
+
+&quot;Yes, I am going.&quot;
+
+&quot;Then get! I'll not be getting in trouble because you wanted to stay up,&quot; the red giant said with a knowing smile.
+
+&quot;Okay, but I want to ask you a question.&quot;
+
+&quot;Just one, lass.&quot;
+
+Baatar pointed to the axe which towered over her. &quot;I want to fight the Garleans and I want to fight with that.&quot;
+
+
+
+11TH SUN OF THE THIRD ASTRAL MOON
+YEAR 1558 OF THE SIXTH ASTRAL ERA
+Open Waters, The Sea of Thavnair
+
+Over the next weeks, the mighty metal ship sailed to and fro, making stops at ports big and small all along the sea; Baatarsaikhan and the other auri weren't allowed off the ship at all but the smallest of the ports - the adults said that the Garleans might be out there to get them. Even so, she was ever so excited to see all sorts of strange lands. The sailors who stayed on the boats during their time in port even made sure that Baatar and the other children - Enkhjargal, Oyuunchimeg, Gerel and Ganzorig - even got toys and trinkets from each port. Still, that was not enough to occupy the entire day, and so the remaining adults continued to teach the children life skills, most important of all the traditional weapons of the steppe - bow, axe and spear. The sailors even helped the adults teach letters and numbers - for while many of the adults knew of Eorzean script, the sailors were much better suited to teaching such things.
+
+Without her parents, it fell to the clan to raise Baatar; aunty Idree, who had always been her second-mother, took on her new role with passion. Every night, she would tuck Baatar beneath heavyset blankets and tell her the legends of the steppe, tales of great heroes and, with a book gifted to her by Pfarberk, even read to her the stories of Eorzea. Soon Baatar became enthralled by the tales of sailors just like the ones who had rescued her and kin. She knew, on some level, that one could conceivably live on a boat for most of their years- the Orben wove great reed-boats to ride the Blue Jewel which spanned the length of the Steppe, but that was a far cry from these stories of swashbuckling sailors who rode the seas, slept on boat and spurned the safety of solid ground.
+
+A month into their journey, Baatar found herself free of lessons; Gerel and Oyuun were both napping, Enkh and Ganzorig were reading about fish or something boring like that, and Baatar hand a mind to find answers to some questions. She waited on the top deck for the time when the sailors had finished their tasks for the mid-day and would stop to take lunch. She approached Pfarberk and happily plopped down next to him, pulling the metal water-canteen she carried out of her satchel along with a piece of salted trout. &quot;Pfarberk,&quot; she asked after taking a few bites of her fish, &quot;aunty Idree read to me and said that you and your sailor-kith spend many years on these boats.&quot; She nodded vigorously. &quot;Yes, she read that you stay on these waters for many, many months, even a whole year without spending more than a moon or two at shore!&quot;
+
+&quot;Aye, lass, it's true,&quot; the giant replied as many of the other sailors nodded. &quot;I'm one of the older ones - been more or less living on a boat since I was a small boy. You grew up on the steppe, an' I grew up on the high seas. Arnar,&quot; he said, pointing at the dark-skinned hyur who'd brought her topside so many weeks ago, &quot;he was even born on a ship much like this'n!&quot;
+
+&quot;What? No,&quot; Baatar said, frowning. &quot;I do not believe it.&quot;
+
+Arnar and the gathered sailors laughed, smiled at Baatar's tiny expression of disbelief. &quot;Now, why'd Pfarberk have cause to lie to ya, lass?&quot; Arnar replied, shrugging. &quot;'tis true! Me pa were a...sailor, let's say, and so was me marm. Born on the open seas, I was.&quot;
+
+Baatar thought about this for many minutes before concluding that, yes, Pfarberk was probably not lying to her. &quot;Okay,&quot; she replied, &quot;but how did your mother nurse you? On the sea there is no milk but the one from your mother's breast. How did you grow so big without sheep or goat-milk? And,&quot; she continued, a thoughtful expression on her face as she pointed at her half-finished meal, &quot;you cannot eat only fish from the sea to become strong.&quot;
+
+&quot;Well, lass, we've had plenty of meat, some of it fresh, and plenty-a-cooking done by both our own and your kin,&quot; Poyi, the mustachioed-lalafell, said with a look that resembled that of a teacher. &quot;We may eat plenty of fish and salt-meat but that's not everything. Not for Kukujisu's lack of trying, the stingy ba - fellow.&quot;
+
+&quot;I suppose,&quot; Baatar said with a frown. &quot;But aren't you sad? There is so little space, even on this big ship. No fields to run in, no mountains to climb.&quot;
+
+&quot;Well, there's work to be done, and when the work's done there's resting and grog,&quot; one of the elezen sailors, Anaux, pointed out. &quot;And there may be no fields or mountains aboard the Big Kweh, but I've seen you and the other children run laps up and down the decks. Once you're older, too, you can always climb the masts and the rigging, eh? Plus, on your steppe there's no endless water, no ports to visit, no far-away lands to sail to, no endless sea to look down upon.&quot;
+
+&quot;Hmmmm.&quot; Baatar thought some more, and rubbed at her horns, stroking them from the sides of her head to the tips which stopped just past her mouth. &quot;Maybe you are right. When will I be allowed to climb the masts and swing along the rigging? I and the other children, we watch and it looks very fun.&quot;
+
+&quot;Fun, aye, but more than a little dangerous,&quot; Poyi noted. &quot;It takes training, work, and a little courage to run the ropes like we do, Baatarsaikhan. When you're bigger, stronger, older - and if you still have a taste for watercraft and a life on the seas - I'm sure one of us, or any of the sailors back home in 'ol Limsa'd be happy ta show ya.&quot;
+
+&quot;Little?&quot; Baatar sputtered, pointing a finger at the lalafell. &quot;I am as big as you!&quot;
+
+&quot;Right, but not nearly as strong,&quot; Poyi replied with a smirk. &quot;And don't you try to deny it, little lady - I'n the others watch you kids train with weapons with us an yer elders. Strong, my arse.&quot;
+
+&quot;That's a curse,&quot; Baatar replied. &quot;Aunty will be mad if she hears you talking like that.&quot;
+
+&quot;Shite. I mean - look, if you were so tough could you do this?&quot; Poyi leapt forward and hoisted the little girl above his head, and began running a lazy lap around the gathered sailors. Baatar yelled in delight as the lalafell carried her around the topdeck, 'til a minute or so later the ride ended and she was set back down upon solid deck. &quot;So! When you can do that, then we'll talk about you climbing the masts, how about.&quot;
+
+&quot;I will be bigger and stronger than you before you know it, Poyi!&quot; Baatar said with her hands on her hips. &quot;And I will carry you and the others 'round the Big Kweh, I promise!&quot;
+
+&quot;You'll not be carrying me anytime soon,&quot; Pfarberk said, joining the other sailors in laughter, &quot;unless you want a good case of being crushed, lass.&quot;
+
+&quot;Well we shall have to see about it in many moons,&quot; Baatar replied simply, smiling. &quot;I say I shall be as strong as any roegadyn!&quot;</Text>
+        </Document>
+        <Document ID="55">
+            <Title>Arriving in Eorzea</Title>
+            <Text>10TH SUN OF THE THIRD UMBRAL MOON
+YEAR 1558 OF THE SIXTH ASTRAL ERA
+Limsa Lominsa, The Rhotano Sea
+
+&quot;Look, Baatarsaikhan,&quot; Idertuuya said with a warm smile as she carried the little girl aloft on her shoulders. &quot;We're finally at our new home!&quot;
+
+&quot;Wow,&quot; Baatar replied, eyes wide. &quot;It's so...big!&quot;
+
+The Big Kweh was nearing the grand city-state of Limsa Lominsa, and Baatarsaikhan could come up with nothing else to describe the sight she was taking in. The Dawn Throne, home of the Oronir and mightiest of the Steppe's structures, seemed tiny in comparison to the sprawling white towers which stood before her; their metal-tipped spires seemed to touch the very skies. Even the sailors seemed to be in higher spirits than usual; their two-month journey had seen them avoid Garlean patrols, navigate rough waters and, perhaps most terrifying of all, sail the last quarter of the journey entirely sober after several of the grog barrels splintered during a rough bout of storms. Still, things had gone as well as Idertuuya or any of the other auri refugees could have imagined, all things considered: two had died on the journey - Medekhgüi, who had been nearing eighty-six years and had not expected to survive the journey, and Nayantai, who had fallen from the boat during a storm and drowned before the sailors could retrieve her. Otherwise, the refugees were in good health, with only two of their number currently being ill; most auspicious of all, they had even given witness to one of the widows, Agujam, give birth to a healthy baby boy, who she had named Dalaichin - seafarer, in the Eorzean common tongue.
+
+&quot;So, Limsa, is she to yer liking?&quot; Arnar asked, dropping down from one of the ship's sail-riggings to join the refugees at the railings.
+
+&quot;It is so beautiful,&quot; Agujam said, smiling as she swaddled Dalaichin. &quot;Never in my years would I have dreamed of a city so spacious and tall upon the waters.&quot;
+
+&quot;So it is. Baatarsaikhan, you will have to stay here for a moment, okay? I needs speak with Captain Yorsa for a moment,&quot; Idertuuya said, setting Baatar down.
+
+&quot;I'll take you to Nifsa,&quot; Arnar said with a nod. &quot;You be good, Baatar!&quot;
+
+&quot;Worry not,&quot; Agujam said with a smile. &quot;I'll keep an eye on her - and you are a good girl anyways, right, Baatar?&quot;
+
+&quot;I am,&quot; Baatar replied proudly, before pulling out her pictures-book from her satchel. She flipped through the pages until she reached the drawing of Limsa Lominsa, and held it up so she could see both the drawing and the city at the same time. Her mouth remained askew in silent awe as she realized that the pictures, if anything, were less grand than the real thing; one of the sailors had explained that the pictures-book was, in fact, actually quite old and that amongst other things the city of Limsa had grown quite a bit since the time the book had been made. Soon the Big Kweh was pulling alongside other boats and Baatar watched as the other vessels' occupants stared in a mix of wonder and confusion at the sight of the Xaela refugees standing atop the Big Kweh's deck; Baatar waved at whoever she could see, and to her delight more than a few people waved back.
+
+All the sailors and refugees watched in anticipation as the ship pulled into port - and oh, Baatar thought, what a port it was! Nothing like the ones they'd visited on the long voyage to Eorzea; Limsa Lominsa's port was massive, dozens of piers and docks stretching out, each one holding ships ranging from tiny fishing rowboats to massive metal-plated behemoths double the size of the Big Kweh. There was even a small crowd of onlookers watching the ship pull in, the varied citizens of Limsa (all dressed in strange, foreign garb) talking amongst themselves at the incredible sight of the refugees. Standing at the front of the pier, seperated from the crowds by a cordon of red-jacketed soldiers carrying sword, pike, and gun, was a tall, white-skinned and white-haired roegadyn woman clad in a black coat - who, save for her evident height, looked so very different from the red-skinned and brown-haired Pfarberk - who had such an aura of power and prestige that even Baatar could recognize her importance. Once the ship came to a halt, the ramparts were lowered, and the white-haired woman strode aboard the ship with bodyguards following behind her. The sailors all walked over to meet her - and all of them saluted, Bataar noted with a mixture of confusion and awe.
+
+&quot;Admiral,&quot; Captain Nifsa Yorsa said, saluting the woman who towered over his tiny lalafellian frame. &quot;These'll be the refugees we pearled ahead about.&quot;
+
+&quot;At ease, gentlemen,&quot; the woman replied with a small smile. &quot;Xaela refugees of the Azim Steppe, it is my honour to welcome you to Eorzea. I am Admiral Merlwyb Bloefhiswyn.&quot;
+
+The lady's accent was strange, Baatar thought.
+
+She also carried two pistols on her belt which, despite their ornate decoration, also looked very well-worn.
+
+&quot;Thanks upon you, Admiral,&quot; Idertuuya said, stepping forward and kneeling as she bowed her head. &quot;I know that for refugees to simply show up on your home without warning must no doubt be difficult.&quot;
+
+&quot;It's quite alright, Miss...?&quot;
+
+&quot;Idertuuya Kha, Admiral.&quot;
+
+&quot;Idertuuya, you have no need of apology. I cannot speak for every Eorzean but I assure you that in my city, any victim of the Garleans will find, at the very least, an open door and a bed to sleep on.&quot;
+
+&quot;The Dusk Mother's blessings upon you. Your kindness is boundless.&quot;
+
+&quot;That's enough flattery from you.&quot; The Admiral surveyed the ship, and noticed the children who were standing at the rear of the refugees. &quot;I see you have children with you - while I cannot promise you a life of luxury, they will not starve, or, Twelve's blessings, be shot by Garlean troops. Come, let's get you lot off this ship - Eynzahr,&quot; she said, glancing at another roegadyn man, this one green-skinned, &quot;please escort these folks to Maelstrom Command and see that they're taken care of for the immediate future. We shall discuss your futures after you've had a proper meal and perhaps even a bath.&quot;
+
+&quot;At one, Admiral,&quot; Eynzahr replied with a snappy salute. &quot;If you'll follow me, please.&quot;
+
+Baatar followed the other refugees off the ship, watching the gathered crowds behind the cordon of red-jacketed soldiers, mouth askew and her eyes bright. She took five steps on solid earth, promptly tripped and fell face-first into the ground.
+
+&quot;Baatar!&quot; Oyuunchimeg shouted, covering her chest with an arm. &quot;Are you alright?&quot;
+
+Baatarsaikhan Kha got to her feet, looked around proudly and grinned at Idertuuya. &quot;Yes, I am alright! More than alright.&quot;
+
+
+
+************************************************
+
+
+Four hours later, Baatar could not believe that she'd ever survived spending two months aboard the cramped, perpetually-swaying confines of a seaborne ship. She and the other children had been brought into a &quot;simple&quot; set of military barracks at the top of the city - whose massive beds, hammocks, cots and spacious interior would have been a sign of astounding luxury upon the steppe. The children were brought to the bathing-room tucked off in a side room, and while Baatar and the other refugees recognized the water-pumps and tubs, the strange, snake-like contraptions that ran up the walls and terminated in odd, flattened-discs with numerous tiny holes.
+
+&quot;These,&quot; Idertuuya said as she and a few of the other adults helped strip the children out of the robes that had been given to them by the sailors, &quot;are show-ers. Here, in Eorzea, they even have hot water that falls from here,&quot; she said, pointing at the disc, &quot;without burning fuel to make heat, or pumping to make the water fall.&quot;
+
+The children ooh-ed and aah-ed as Idertuuya stripped out of her clothing, walked over to one of the &quot;showers' and pulled one of its levers slightly; with stunned silence the children watched a cascade of water pour forth from the shower. Idertuuya pulled another lever - this one only halfway - and then tested the waters with an extended figure before sighing and smiling.
+
+&quot;Come, children, it's warm,&quot; Yesui said, beckoning.
+
+Baatar and the others toddled along into the stream of warm, steaming water, cheering and whooping in delight as they began trying to throw water at one another; the adults indulged the children for a few minutes before yanking them back in - some by the tail - and giving them a good scrubbing with cloth and sponge; Baatar revelled in how clean her hair and skin felt, how polished her scales were, layers of grime and dirt coming off her scales in tiny pieces.
+
+After their luxurious shower, the kids were given fresh clothes, left by a Maelstrom attendant while they were cleaning up. After the adults had all cleaned themselves, Idertuuya left the room for a few minutes, returning shortly with the Admiral's assistant - the towering green-skinned giant named Eynzahr - and several other Maelstrom soldiers, each carrying a small platter of food.
+
+&quot;Children! It's time to eat!&quot; Idertuuya said as she helped the soldiers place the food on one of the tables; the eldest of the adults sat at the table, pulling up chairs, while the other adults pulled rugs and mats from their well-worn rucksacks, laid them out in a small circle on the ground and sat with the kids.
+
+&quot;There's no need for that - enough chairs for everyone,&quot; Eynzahr said with a frown.
+
+&quot;It is our way,&quot; Agujam said, rocking her young, blanket-swaddled child back and forth as she sat at the table. &quot;The table is for the eldest and the mothers.,&quot; she explained, pointing at herself. &quot;There is no dishonour to sit upon to the steppe; she provides us our food and we take it upon her soil with grace. Well, the floor, here, but the idea is the same.&quot;
+
+&quot;If that's your custom,&quot; Eynzahr replied, scratching at his hair. &quot;Anyways we've not got anything fancy-&quot;
+
+&quot;-no talk of fanciness here, Master Slafyrsyn,&quot; Idertuuya said as she leaned back in her chair at the table. &quot;To us steppes-folk, simple as we are, your housing and your bathing-room are the height of luxury.&quot;
+
+&quot;Ha! You'll make good Lominsans, then,&quot; one of the other soldiers, a female red-haired miqo'te, said with a flick of her tail and a sharp-toothed grin. &quot;Believe me, we've no shortage of recruits who bellyache about the rations and the housing.&quot;
+
+&quot;In any case, I'll remain to discuss your case. Everyone else, dismissed,&quot; Eynzahr said with a nod to the other soldiers. They all saluted and left the barracks; Eynzahr sat at the table with the other elders. &quot;But enough talking - I'm sure you're hungry and the evening approaches,&quot; he continued, pointing at the wall-mounted chronometer. &quot;Dig in. Chicken and mushroom stew, bread for sopping. Fresh greens with garlic and oil. And, of course, fruits - perfect for eating after many days at sea.&quot;
+
+&quot;We are humbled by your kindness.&quot; Idertuuya bowed her head with the other refugees, and when she spoke it was in the Xaela tongue. [Blessed is the Dusk Mother, who in Her glory, power and grace, has seen us safely to these far-flung shores. Tonight we eat and rest for ourselves and those we have lost along the way. Let this meal be the first of many on these soils. Thanks be to the animals who were slain for the meats. Thanks be to the steppe and this Eorzean lands which granted us these foods. Thanks be, Dusk Mother.]
+
+[Thanks be,] the refugees replied.
+
+&quot;I see there are bowls here. If it is alright, however, we shall eat using our own utensils. It is a...thing of pride,&quot; Idertuuya explained.
+
+&quot;Go ahead. I'll not instruct you how to eat, of all things,&quot; Eynzahr said.
+
+The elders filled their bowls with stew, bread and vegetables first, before passing along bowls of food and cups of water to the children, then the other adults. Baatar pulled her pack over from the side of the room with the other children and took out her utensil-kit; she popped the small wooden container open, pulled a well-worn metal spoon out and dug into the food with gusto. The vegetables were like any other she'd had, but the stew was odd - not unpleasant, but spiced and flavoured such that she could hardly believe she was eating a dish made of such familiar things like chicken and mushrooms. Strangest of all was the bread; its crunchy crust and white, fluffy interior was nothing like the flatbreads she had eaten before.
+
+Soon the children had finished their meal, prayed once more and were ushered off to bed; Idertuuya and most of the other adults were packing up and leaving to discuss the clan's matters with Eynzahr in the room outside the barracks, and so Baatar and the other children were tended to by Agujam and three others. As Agujam rocked Dalaichin back and forth next to the beds the children lay in, singing a old battlesong, Baatar could barely keep her eyes open to listen to the whole thing.
+
+[Mightiest warriors of the steppe, they bowed before Bardam,
+for he was strong of arm and mind
+and none could touch his body...]
+
+That night, for the first time in a long time, Baatarsaikhan did not dream of slaying Garleans, but instead of standing upon a great, mighty sea-faring boat, dressed like a swashbuckling Limsan sailor of legend and carrying an axe just like Pfarberk's; the wind whipped at her skirts and, with a loyal crew standing beside her, she would face the endless sea, a warrior the equal to Bardam himself.
+
+
+************************************************
+
+
+11TH SUN OF THE THIRD UMBRAL MOON
+YEAR 1558 OF THE SIXTH ASTRAL ERA
+Maelstrom Command, Limsa Lominsa
+
+&quot;You must be glad, Miss Idertuuya. To see the kids safe and sound.&quot;
+
+&quot;You are correct, Master Slafyrsyn. We do this for them.&quot; Idertuuya smiled, nodded. &quot;By no means did all the Kha come to flee the lands, just us coward enough to know that the Garleans would drive us inland. We were seventy-nine, when we began our journey. Twenty-eight made it to the boat, and now we are twenty-six. For the ones who have returned to the earth, and for the children who are not yet tall, we will continue.&quot;
+
+&quot;Mmm. You'll do them proud.&quot;
+
+&quot;I hope.&quot;
+
+&quot;In any case, then, while I know that not all of the adults are here,&quot; Eynzahr said, looking around at the other Xaela adults sitting around the conference table, &quot;I trust there are enough of you here to get the message across. Now, before I start in earnest, let me make this clear - if you've any questions, you ask. Interrupt me, even. I'd rather you do so now and clear up any confusion, alright?&quot;
+
+&quot;We'll not hold our tongues for fear of upsetting you,&quot; Temulun said with a wide smile. &quot;We are rough folk.&quot;
+
+&quot;And while the Limsan people may not be living on the steppe, I think you'll find they're more kin to you than the the people of the other big cities,&quot; Eynzahr said with a laugh, before his expression sobered. &quot;So, the Maelstrom can't house and feed you forever.&quot;
+
+&quot;We had imagined as much,&quot; Idertuuya said, nodding. &quot;We shall work for coin and food.&quot;
+
+&quot;That's good. Thankfully we're in a good period right now - there's plenty of work to be had in the shipyards, throughout the farms and on the docks, if that pleases you. Hardy, honest folk like yourselves will fit right in, I'd say. If you'd rather work in the city proper, that might be a bit tougher. Many of the jobs in town that aren't related to labouring will ask for people good with numbers and figures - but I'm sure at least some of you have the talent for it, even if you don't know it. And, frankly, coming from a foreign land like your own, I guarantee you'll make gil a-plenty selling wares from your homeland.&quot;
+
+&quot;People will want the goods of the steppe?&quot; Idertuuya asked, head cocked. &quot;Like what?&quot;
+
+&quot;Everything, honestly. Clothes woven in your style. Arts, if you have them. Instruments, music and the skill to play such things. Storytelling for the taverns. Food from, to Eorzeans, an exotic land. Even your alcohol - I'm sure you have it-&quot;
+
+&quot;-we do,&quot; Yesui said with a grin. &quot;We do partake in much of it.&quot;
+
+&quot;Twelve's blessings, you people are going to make good Lominsans. We like hearty food and heartier spirits - and no matter the type you'll find sailors willing to buy your food and drink your alcohol, trust me. We're a city of folks who love their food - if any of you visit the Culinarian's guild, I assure you the folks there will happily pay you in coin or food to pick your brains for knowledge. And, we do no shortage of trade both seabound and upon the land - the city of Ul'dah, out in the deserts, is one which thirsts for exotic things.&quot;
+
+&quot;And for the warriors among us?&quot; Idertuuya asked. &quot;I can cook and weave and tell song - any adult of the clan can do those things - but mine soul is that of the plains-warrior who delights in battle.&quot;
+
+&quot;Well, then you've got two options,&quot; Eynzahr replied with a thoughtful expression. &quot;There are adventurers - I'm sure you having something akin to them - folks who go out, take odd jobs moving goods, slaying beasts, protecting travelers.&quot;
+
+&quot;Ah. We have such things in our land - common, amongst us nomads,&quot; Temulun noted.
+
+&quot;Right. It's not an easy life, but there's always people looking for such things in a city like Limsa Lominsa. If you'd prefer a less solitary life, and think you'd work well in an organized military, the Maelstrom - that's us redcoats - serve Limsa as its standing army. We'll gladly take recruits if you can pass the entrance tests; I also know that the Admiral and a few others are looking to see if we can't learn anything from your ways of warmaking from the steppe.&quot;
+
+&quot;Ah, yes. We have no knowledge of your guns, but proud we all are of our warrior ways. We wield axe and spear with equal measure, and though we have no horses to ride, I am sure our mounted archery will work just as well on your horse-birds,&quot; Idertuuya replied.
+
+&quot;Horse-bir- ah, chocobos. Right. Anyways, I know that's a lot to take in - and there's no rush, you have a month before we're to push you out of our barracks. We'll also have lessons run by our soldiers to teach you the basics of getting by in Eorzea; things like law and custom, and a rundown of the powers in our land.&quot;
+
+&quot;We are grateful to you, your Maelstrom warriors and to the Admiral most of all,&quot; Idertuuya replied with a long nod. &quot;You have done well by us and we shall forever be thankful. I promise you that we Kha who have come to your shores will repay this debt eternal to the city of Limsa Lominsa, Master Slafyrsyn.&quot;
+
+&quot;There's no need to be getting so formal. The Maelstrom's here to protect not just the city, but you - and, victims of the Garleans that you are, even of our underbelly only the foulest of our criminals will even think of raising a hand against you.&quot;
+
+&quot;Here, too, you hate the imperials?&quot; Idertuuya asked, eyes bright and full of fire.
+
+&quot;Of course. Blasted Garleans think they can just stomp on over to our land, ravage the earths and pillage to their heart's content. Of course we hate them.&quot;
+
+&quot;Good. That is a good lesson to know. I think we Kha shall get a long very well with your people, in food and drink and custom. And most important of all, war,&quot; Idertuuya said with a wide, heartless smile. &quot;I cannot speak for the others, but if our ways of axe and spear and bow will help kill more Garleans, I shall be blessed to assist your Maelstom in its endeavors.&quot;
+
+
+---------------x---------------
+
+END OF PROLOGUE ONE
+
+Baatarsaikhan Kha has joined the party.
+
+Baatarsaikhan Kha
+Race: Au Ra, Xaela
+Age: 4
+Class: N/A</Text>
+        </Document>
+        <Document ID="56">
+            <Title>Adventurers</Title>
+        </Document>
+        <Document ID="57">
+            <Title>Valére Hérisson</Title>
+            <Text>Age (Year of the Calamity):
+30
+
+Bio:
+Born into a minor house of nobility, Valarr was raised in the Pillars of Ishgard. Like much of his noble peers, he was indoctrinated from a young age to aspire to service of the Holy See. Lacking the financial means of more established houses, the Scholasticae's path was denied to him, though Valarr remained a devout of Halone throughout his life. This was no doubt aided by his enlistment within the Temple Knights, where he would remain after completing his apprenticeship as a squire at the age of 19. Valarr's combat record did not mark him to be a warrior of great renown, though the Temple Knights do notate the man to be notoriously difficult to kill, having survived (albeit grievously wounded) no less than four times where his entire unit was slain by the Dravanian Hordes. Official records of his Ishgardian service end with his dishonorable discharge from the Temple Knights in his 30th year for failing to preserve the life of an inquisitor during a heretic raid in the Western Highlands. Though the clergy originally pushed for capital punishment, Temple Knight leadership deemed veteran swords too limited a resource with Nidhogg's revival and commuted the sentence to a 5-year banishment.
+
+Personality:
+Dour and unassuming, Valarr shares his countrymen's institutionalized wariness towards dragonkind. Whatever merriment he might have enjoyed has been dampened due to his previous experiences as the sole survivor of his company, leaving a man tenacious and uncompromising in regards to his duty towards Ishgard. Known for his professionalism, it was to some surprise his colleagues in the Congregation of the Knights Most Heavenly learned of his failure to safeguard an inquisitor while in the field. Dark rumors that Valarr's hands were guilty of more than mere negligence abound, but were not countenanced as evidence during the court martial. Even if remotely plausible, his fellow knights scoffed, what possible horror could have caused a devout follower of the Faith to turn his blade against an inquisitor?
+
+Echo: Aethershield</Text>
+        </Document>
+        <Document ID="58">
+            <Title>Cherantai Borlaaq</Title>
+            <Text>Name: Cherantai Borlaaq
+Nicknames: Cheran / Cher (shortened name used by friends), 
+Epithet: 
+
+Race: Xaela Au Ra
+Class: Lancer —&gt; Dragoon
+Sub-Class (HW): ???
+Skills: Culinary, Mining
+
+Born: 1553 (6th Astral)
+Age (beginning of A Realm Reborn): 24
+
+Parents: Limbe Borlaaq (Mother), Nairagch Noykin (Father)
+
+
+
+</Text>
+        </Document>
+        <Document ID="59">
+            <Title>Bethany Arkwright</Title>
+            <Text>Name: Bethany Arkwright
+Gender: Female
+Race: Hyur
+Clan: Midlander
+Class: Gunner(Machinist)
+Age: 18
+Appearance: Standing at average height Bethany Arkwright has short dark brown hair, fair skin and dark green eyes.
+Personality: Timid if not somewhat reserved Bethany shys away from overtly curious people and conversations in general despite this however she hates being alone; something that itself had been a result of her experiences during the Calamity.
+
+Backstory: A member of a group of mixraced ex-Garlean deserters and exiles who made a habit of never staying in any place for too long Bethany found herself growing up afraid of Eorzeans and of Garleans who would have brought them harm if the former knew who they were and of being found by the latter. From Gridania to Ul'dahn to Limsa Lomisa they had never made their home at any one destination and yet this had not spared Bethany or those she travelled with from the Calamity. Whether out of ill fortune or merely out of circumstances fragments of Dalhmund had stroked close enough to their camp to cause disaster; devestating the group and she herself in the death of her mother and the fall of her father who was lost with grief. Afterwards she and a few others of the group found themselves all but stranded in Limsa Lomisa, with nothing else and little left they worked and reassembling their lives amongst those who would have considered them enemies if they knew who they were.</Text>
+        </Document>
+        <Document ID="61">
+            <Title>Guilds, Jobs &amp; Classes</Title>
+        </Document>
+        <Document ID="63">
+            <Title>Limsa Lominsa</Title>
+        </Document>
+        <Document ID="68">
+            <Title>Marauder's Guild</Title>
+        </Document>
+        <Document ID="69">
+            <Title>Arcanist's Guild</Title>
+        </Document>
+        <Document ID="70">
+            <Title>Rogue's Guild</Title>
+        </Document>
+        <Document ID="71">
+            <Title>Fisherman's Guild</Title>
+        </Document>
+        <Document ID="72">
+            <Title>History &amp; Overview</Title>
+        </Document>
+        <Document ID="73">
+            <Title>Prologue 2: Settling Down</Title>
+        </Document>
+        <Document ID="74">
+            <Title>Dhonic</Title>
+            <Text>Dhonic - the Eorzean common language, named for Mor Dhona. I imagine it's Greek-inspired, a remnant of Allag. 'Eikons' is greek so based on the single word I ran away with it. (though I had the headcanon b/c i realized this since the base scenario is partly inspired by the Greek city-states being menaced by the Garleans and the Twelve is roughly based off the Olympians) (it got long) - MiragePrismatic
+
+Dhonic is the scholarly term for the common Eorzean language - which is referred to by the vast majority of non-learned people simply as “Eorzean” or “common.” </Text>
+        </Document>
+        <Document ID="75">
+            <Title>Languages of Eorzea</Title>
+        </Document>
+        <Document ID="76">
+            <Title>Cetanish</Title>
+        </Document>
+        <Document ID="77"/>
+        <Document ID="78">
+            <Title>Languages of Hydaelyn</Title>
+            <Text>Dhonic - the Eorzean common language, named for Mor Dhona. I imagine it's Greek-inspired, a remnant of Allag. 'Eikons' is greek so based on the single word I ran away with it. (though I had the headcanon b/c i realized this since the base scenario is partly inspired by the Greek city-states being menaced by the Garleans and the Twelve is roughly based off the Olympians) (it got long)
+
+Hyur -  Midlander is called Cetranish (call back to FF7). Based off West Saxon English, when it was still Germanic-based. Highlander is called Galadhish (call forward to FFXV even though I am not a fan of its as a whole, I really like saying 'Galadh'.) It's... Old Germanic, i think.
+
+Elezen - Elphamois, based off French, name from 'Queen of Elphame' of Scottish folklore. They have three dialects - Elphamois Silva, Vespra and Cielo - Wildwood, Duskwight and Ishgardian. Silva and Cielo are like American &amp; British English diffs and French but Vespra is basically Italian.(edited)
+
+Roegadyn - Roegazoen - Rain Speech (or 'Loetmohtwoerd ... I was having fun with it. Loud Mind Words, lol). The Hellsguard have a 'purer' form of the language in their Lohenzoen dialect, the Sea Wolves speak Merlzoen.
+
+Unfortunately, Lalafellin and Miqo'te are beyond me. Miqo'te seem to make... sounds unpronouncable by anyone else. They call it Huntspeak. Maybe they adopted Lalafellin and modified it. (shout out to FF11) and Lalafellin is lyrical aiding in poems and memory retention(edited)
+OH! Almost forgot - Garleans! - Garlataen, based off old Latin. I have a headcanon about how all these languages/people came to influence each other but that's another post... hehehe 
+
+(MiragePrismatic’s Notes)
+
+Aldernardian Languages
+
+Dhonic: By far the most commonly-spoken language in the Eorzean Realm, Dhonic has its roots in the eponymous language of the ancient Allagan Empire; the language, which was used all across Hydaelyn during the days of the Allagans, remained alive after the Empire’s downfall and was passed down through both oral tradition and via texts &amp; documents by the Allagans. The Allagan language would fall in and out of favour without ever truly dying out; in ages past, Allagan texts were found in Mor Dhona (which prior to the Calamity served as a well-populated trading hub.) From these, Allagan would come to be adopted as a language to facilitate easy trading, diplomacy and other relations between the various races of Eorzea; it was named Dhonic for its place of adoption. In time the practice of calling the language “Dhonic” fell out of use by the common citizens of the realm; most simple folk across Eorzea simply refer to the language as “Eorzean,” though any scholar of repute  knows that Dhonic is the tongue’s true name.
+
+The Dhonic spoken today has evolved greatly over the last five thousand years since its origins as Allagan; countless linguistic traits and words from other languages have been absorbed into the language, and as new inventions or foreign objects come to be known by Eorzeans new words are constructed or taken wholesale in their original form.
+
+Writing Notes: Based on English. Accents vary; Lominsan Dhonic is akin to Cornwall English - very classically “sailor’s / pirate english.” Gridanian Dhonic is akin to Welsh, while Ul’dahn English can be thought of as London for the common folk and High Received for the elite.
+
+
+Hyuran
+
+Cetranish: Brought by the Midlander Hyur to Eorzea ages ago and named for the old gods the Midlander Hyurs worshipped prior to the adoption of the Eorzean Twelve, the ancestral tongue of the Midlanders has mostly fallen out of favour with Hyuran families since, as noted above, it has more or less “evolved” into Dhonic. Traces of it can be found in the accents and idioms of more rural hyuran settlements, however, and study of the language remains common amongst scholars, given the prolific amounts of writing by hyurs before the rise and spread of Dhonic.
+
+Galadhish
+
+Elezen
+
+Elphamois: 
+
+Elphamois Silva (Elphasilva)
+
+Elphamois Sera (Elphasera)
+
+Elphamois Cielo (Elphacielo)
+
+Ilsabardian Languages
+
+Garlataen
+
+Othardian Languages
+
+Yamago
+
+Auri Khel / Xaela Khel	
+
+“Dead” Languages
+
+Allagan
+
+
+
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="79">
+            <Title>Disciples of War</Title>
+        </Document>
+        <Document ID="80">
+            <Title>Disciples of Magic</Title>
+        </Document>
+        <Document ID="81">
+            <Title>Combat</Title>
+        </Document>
+        <Document ID="82">
+            <Title>Non-Combat</Title>
+        </Document>
+        <Document ID="83">
+            <Title>Disciples of the Hand</Title>
+        </Document>
+        <Document ID="84">
+            <Title>Disciples of the Land</Title>
+        </Document>
+        <Document ID="85">
+            <Title>Marauder (MRD)</Title>
+        </Document>
+        <Document ID="86">
+            <Title>Specializations</Title>
+        </Document>
+        <Document ID="87">
+            <Title>Warrior (WAR)</Title>
+        </Document>
+        <Document ID="88">
+            <Title>Corsair (COR)</Title>
+        </Document>
+        <Document ID="89"/>
+        <Document ID="90">
+            <Title>Gladiator (GLD) / Knight (KNT)</Title>
+        </Document>
+        <Document ID="91">
+            <Title>Specializations</Title>
+        </Document>
+        <Document ID="92">
+            <Title>Paladin (PLD)</Title>
+        </Document>
+        <Document ID="93">
+            <Title>Hospitaller (HPT)</Title>
+        </Document>
+        <Document ID="94">
+            <Title>Mercenary (MRC)</Title>
+        </Document>
+        <Document ID="95">
+            <Title>Dark Knight (DRK)</Title>
+        </Document>
+        <Document ID="96">
+            <Title>Close-Quarters</Title>
+        </Document>
+        <Document ID="97">
+            <Title>Ranged</Title>
+        </Document>
+        <Document ID="98"/>
+        <Document ID="99">
+            <Title>Musketeer (MSK)</Title>
+        </Document>
+        <Document ID="100">
+            <Title>Ranged-1</Title>
+        </Document>
+        <Document ID="101">
+            <Title>Musketeer (MSK)</Title>
+        </Document>
+        <Document ID="102">
+            <Title>Archer (ARC)</Title>
+        </Document>
+        <Document ID="103">
+            <Title>Specializations</Title>
+        </Document>
+        <Document ID="104">
+            <Title>Machinist (MCH)</Title>
+        </Document>
+        <Document ID="105">
+            <Title>Marskman (MRK)</Title>
+        </Document>
+        <Document ID="106">
+            <Title>Bard (BRD)</Title>
+        </Document>
+        <Document ID="107">
+            <Title>Unique</Title>
+        </Document>
+        <Document ID="108">
+            <Title>Commando (CMD)</Title>
+        </Document>
+        <Document ID="109">
+            <Title>Description</Title>
+            <Text>COMMANDO (CMD)
+Type: Tank / DPS
+Fighting Style: Varied
+Origin: Varied
+Weaponry: Varied
+
+Key Characters: Baatarsaikhan Kha, M’naago 
+
+
+History
+
+
+“Once upon a time, men like me were the column of a group of fighting men. I - all of you know this is no boast - can take twenty times my own number, armed with a single sword and without breaking a sweat. But the days when that was enough to constitute an elite soldier - those days are over. A swordsman who can kill ten men with ease, but can barely wield a firearm with the same skill, cannot operate and maintain a field gun or infiltrate a castrum and get back out without raising the alarms? That man is useless to me except on the frontlines. That might have sufficed during Operation Archon - barely - but no more. The scope of the coming fight against Garlemald is greater. The scope of the battlefield is greater. The stakes are greater.
+
+War has changed - and if we are going to defeat the might of the Garlean military, we must change, too.”
+
+- Raubahn Aldynn, addressing the Eorzean Alliance’s Senior Command
+
+
+The Eorzean Alliance’s Commandos have their origins in a variety of factors; during Operation Archon and the skirmishes occurring afterward, several problems became clear. First, a lack of unified training regimen resulted in serious logistical problems; while the troops fielded by each Grand Company did train with each other whenever possible, issues continually arose stemming from the vastly different training methods and doctrines. Second, the Eorzean Alliance had no dedicated units akin to the Garlean’s own elite troops; while the EA had “elite” soldiers with better experience, these soldiers were not part of any defined or permanent organization and had little in the way of specific training or logistics. Seeing the success of the Warriors of Light, Raubahn began working on the formation of a “specialist” unit dedicated specifically to carrying out what Garleans called “special operations.” The idea gained traction, albeit slowly, and with the help of several senior soldiers he set about drafting doctrine, warrior ethos, etc. The re-integration of the Ishgardian military to the EA only sped the process; notably, Aymeric de Borel was a strong supporter of the idea.
+
+A core idea of this “elite unit” theory was that the EA’s troops should draw from the varied experiences and skills that the diverse city-states of Eorzea could offer; rather than expect their soldiers to specialize in a style of combat, the “Elite Units” would take elements from everything and anything; Raubahn dreamt of soldiers who would wield any weapon they happened across with reasonable proficiency, of soldiers who could both hold a fortified position and carry out covert operations. By the time Baelsar’s Wall was taken and preparations for the liberation of Ala Mhigo were underway, the first units of this group were formed; in honour of the upcoming invasion and, for the ethnic Ala Mhigans in the unit, the group took on the name “Commandos,” after the old Galadhish term “Komando,” (lit. “Troops under command” in Dhonic.) 
+
+
+Fighting Style
+
+
+“Lookit me, eh? I could be killin’ any’a you sods with me axe - and ye know it. But that don’t help me in the slightest, say, if me target’s a thousand yalms away. Just as ye don’t use a greatsword like a throwing-knife, ye don’t use pistol when ye wants to be sneaky. That’ll be what ye lot needs to be learnin’ - right tool fer the right job. And that means carryin’ tools so ye never finds yerself without the right one. Yer not swordsmen or axewomen or the like no more - yer Commandos. General Aldynn wants ye to be sneaky, ye do the thing. General Aldynn wants ye to blow a castrum to bits, ye do the thing. General Aldynn wants ye to fuckin’ kill yer way through a whole legion? Ye do so. That’ll be our job, and we’ll be doin’ it whether we’s got resupply or not.
+
+Oh - and don’t be talkin’ up honour or the like. Ye got one job: kill Garleans. Yer not here to dance wi’em. If ye like, ye can say a kind word when ye slit their throats.”
+
+- Baatarsaikhan Kha, during a speech to the Eorzean Commandos
+
+
+Taking inspiration from the diverse backgrounds of its constituent soldiers, the Commando fighting style is often remarked upon by outsiders to be as bizarre as it is vicious. Unlike the various Guilds of Eorzea, the Commandos have developed their techniques specifically to counter Garlean soldiers and tactics. While the Guilds have begun to adopt the more war-like ethos spreading through the men and women who fight the Garleans, the Commandos have embraced it wholesale: everything is a weapon, and no tactic or maneuver is off-limits. 
+
+Commandos are expected to be proficient with just about any weapon, even if they don’t particularly excel in the field. Observers have noted Commandos training and experimenting with a bizarre spread of items, ranging from dueling with captured Garlean gunblades to dueling at close range with farming tools.
+
+Aesthetic
+
+Commandos were the first to adopt the Eorzean Alliance’s “Liberator” pattern of combat gear; inspired by Garlean combat webbing, the pouches that would often be added by EA soldiers to their own gear in addition to the standard-issue belts, and the various holsters and pouches worn by elite adventurers, the “Liberator” uniform is the first set of purpose-built clothing and equipment designed specifically to withstand the rigours of large-scale warfare against the Garleans. Produced initially under contract by the Garland Ironworks, the Liberator system differs from earlier armour / uniforms in that it is modular, designed to allow users to attach individual modules as necessary via a system of straps and quick-release buckles. An archer who wishes to carry a sidearm no longer needs to purchase a holster to attach to their belt; rather, they now can simply requistion a “holster module” and integrate into their own armour, for example.
+
+
+
+</Text>
+        </Document>
+        <Document ID="110">
+            <Title>Tank</Title>
+        </Document>
+        <Document ID="111">
+            <Title>DPS (War)</Title>
+        </Document>
+        <Document ID="112">
+            <Title>DPS (Magic)</Title>
+        </Document>
+        <Document ID="113">
+            <Title>Support</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
