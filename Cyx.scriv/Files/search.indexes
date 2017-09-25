@@ -877,40 +877,9 @@ Backstory: A member of a group of mixraced ex-Garlean deserters and exiles who m
         <Document ID="61">
             <Title>Guilds, Jobs &amp; Classes</Title>
         </Document>
-        <Document ID="63">
-            <Title>Limsa Lominsa</Title>
-        </Document>
-        <Document ID="68">
-            <Title>Marauder's Guild</Title>
-        </Document>
-        <Document ID="69">
-            <Title>Arcanist's Guild</Title>
-        </Document>
-        <Document ID="70">
-            <Title>Rogue's Guild</Title>
-        </Document>
-        <Document ID="71">
-            <Title>Fisherman's Guild</Title>
-        </Document>
-        <Document ID="72">
-            <Title>History &amp; Overview</Title>
-        </Document>
         <Document ID="73">
             <Title>Prologue 2: Settling Down</Title>
         </Document>
-        <Document ID="74">
-            <Title>Dhonic</Title>
-            <Text>Dhonic - the Eorzean common language, named for Mor Dhona. I imagine it's Greek-inspired, a remnant of Allag. 'Eikons' is greek so based on the single word I ran away with it. (though I had the headcanon b/c i realized this since the base scenario is partly inspired by the Greek city-states being menaced by the Garleans and the Twelve is roughly based off the Olympians) (it got long) - MiragePrismatic
-
-Dhonic is the scholarly term for the common Eorzean language - which is referred to by the vast majority of non-learned people simply as “Eorzean” or “common.” </Text>
-        </Document>
-        <Document ID="75">
-            <Title>Languages of Eorzea</Title>
-        </Document>
-        <Document ID="76">
-            <Title>Cetanish</Title>
-        </Document>
-        <Document ID="77"/>
         <Document ID="78">
             <Title>Languages of Hydaelyn</Title>
             <Text>Dhonic - the Eorzean common language, named for Mor Dhona. I imagine it's Greek-inspired, a remnant of Allag. 'Eikons' is greek so based on the single word I ran away with it. (though I had the headcanon b/c i realized this since the base scenario is partly inspired by the Greek city-states being menaced by the Garleans and the Twelve is roughly based off the Olympians) (it got long)
@@ -1120,6 +1089,82 @@ Commandos were the first to adopt the Eorzean Alliance’s “Liberator” patte
         </Document>
         <Document ID="113">
             <Title>Support</Title>
+        </Document>
+        <Document ID="114">
+            <Title>Nicol Grunenberg</Title>
+        </Document>
+        <Document ID="115">
+            <Title>DPS (Magic)-1</Title>
+        </Document>
+        <Document ID="116">
+            <Title>Mihkhi Khamun</Title>
+            <Text>Name: Minkhi Khamun
+
+Race: Keeper of The Moon, Miqo’te
+Class: Black Mage
+Sub-Class (HW): ???
+Skills: Culinary, Mining
+
+Born: 1556 (6th Astral)
+Age (as of Arc I): 21
+Parents: Rane Khamun, Aroh'to Khamun
+
+I would like to submit my character for use in Cyx! Her name is Mickey Katmunch, and she is a Keeper of the Moon Black Mage hailing from Gridinia, but working for the Maelstorm. Clearly, the name needs to go, but I would love to see a character similar to her pop up in a full party, even under a completely different name. 
+For back story I was thinking something along the lines of working with the conjurer's guild near Ampador and stumbling apon and ancient Black Mage artifact captured by the White Mages and becoming intrigued by the power teased by it. She ends up traveling to Ul'dah to learn more, eventually becoming a Black Mage. From there she is contracted by various privateers as a living artillery piece for use to disable ships. This, eventually, gets her a place serving with the Maelstorm. 
+Personality wise, she would be of a mercenary bent and with a bit of a hot head born from a boredom of constant elemental pleasing. She is always looking to test new magics, with getting payed to do so all the better.
+
+Clothes would be the Battlemages set because nothing beats the classics. 
+I am not married to the vast majority of this and would be happy to see most of it thrown out. Also, if this doesn't work for any reason and you don't what her in, just let me know. Lord knows cat-girls are a dime a dozen.</Text>
+        </Document>
+        <Document ID="117">
+            <Title>Jessica Etoile</Title>
+        </Document>
+        <Document ID="118">
+            <Title>Support-1</Title>
+        </Document>
+        <Document ID="119">
+            <Title>D'namis Tia</Title>
+            <Text>Name: D’namis Tia
+Race: Sunseeker Miqo'te
+Class: White Mage 
+Skills: Botanist
+
+Background:D’namis was born to a family of farmers in Summerford as the eldest of three children and showed a close affinity for all things natural. During their usual bi-monthly trade visit with his 
+parents to the Botanist’s Guild in Gridania when he was 13, D’namis accidentally stumped upon the Conjurer’s Guild and managed to sit in on the day’s lectures without anyone noticing that he was, 
+in fact, not a student. Figuring there was little to lose, D’namis was given preliminary testing and showed a great deal of potential in conjury. He would continue to attend classes at the guild during 
+these visits until his explanation of being able to “hear the earth and the water” was found out; after that, the guild took an active interest in recruiting him. At the age of 16 he was allowed to 
+leave him and stayed in Gridania for training; as a trainee he was charged with assisting healing of long-term wounded, and as such was away from the frontlines during the Calamity.
+
+
+Personality: Chill and relaxed when socializing, feels like he babysit's children while healing. Tough-love bedside manner
+
+Note: Skilled Botanist and scholar (book-lover not the healer job). Minor Alchemist specializing in wand/staff lore 
+
+Echo: Nature Attunement</Text>
+        </Document>
+        <Document ID="120">
+            <Title>Singing Fury</Title>
+        </Document>
+        <Document ID="121">
+            <Title>Scions Of The Seventh Dawn</Title>
+        </Document>
+        <Document ID="122">
+            <Title>Moenbryda</Title>
+            <Text>Moenbryda. I'm REAL excited for her to live b/c she continues to be important (GODSDAMNIT SE, WHY DID YOU KILL HER OFF SO QUICKLY)
+- 2.2 - the Sahagin priest/Leviathan - the whole thing with the Echo
+- Urianger gives them her last white auracite before they head to Azys Lla
+- Moenbryda and Yda call each other 'sister'. Which could mean that Moenbryda knows exactly who she is. Probably knew the actual Yda. 
+- Alisaie mentions that Moenbryda could fix the aetheryte in the House of Fierce 'with her eyes closed' and that she and Alphinaud learned what they knew of aetherytes from her. 
+- The 'Warrior of Light can shield others within a limited radius from primal branding' was cool (i had been thinking about that myself) but came out of nowhere
+- Urianger recreates Moenbryda aether boom stick thing (the aetheric sphion!) to smack down Fordola. 
+So:
+- She would be super usefulin the Leviathan ... situation (Moenbryda/Minfilia tag team???)
+- Now Moenbryda can show up at Ishgard/be in Ishgard/idk she can give them white auracite herself or hells come along with her axe and chop off Garlean heads. 
+- What if she went to Doma too? As someone knowing of Lyse's struggles she could help loads.
+ - Moenbryda can poke the Warriors of Light for details on their 'aether-weirdness' and speculate on it and lead to the 'you can shield people!' maybe they can do it together to make the radius bigger or whatever
+- Now Moenbryda can make the aetheric sphion and fix the aetheryte (or, idk send notes to Urianger on account of kicking ass with them in the field???)
+
+ screams at SE for wasting a perfectly good character. If you wanted to off someone, Thancred would have been perfect. (i don't actually hate Thancred)(edited)</Text>
         </Document>
     </Documents>
 </SearchIndexes>

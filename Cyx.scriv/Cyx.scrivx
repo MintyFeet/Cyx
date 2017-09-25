@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="OfficePC" Modified="2017-09-25 07:10:24 -0400" ModID="3C40910D-AD6B-4C2D-801D-CAABF7D435A2">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="OfficePC" Modified="2017-09-25 09:15:46 -0400" ModID="488E58EC-E14E-498B-BD65-25AEFE33D1C2">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0400" Modified="2014-06-12 18:17:20 -0400" Type="Text">
             <Title>Novel Format</Title>
@@ -210,6 +210,15 @@
                                                 <Target Type="Words">0</Target>
                                             </TextSettings>
                                         </BinderItem>
+                                        <BinderItem ID="114" UUID="EDAE8273-9504-445B-9E42-FD2E87A397E3" Created="2017-09-25 08:56:33 -0400" Modified="2017-09-25 08:56:36 -0400" Type="Text">
+                                            <Title>Nicol Grunenberg</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem ID="112" UUID="B86ED4D6-4C88-4F01-A792-EB937B20E750" Created="2017-09-25 06:38:28 -0400" Modified="2017-09-25 06:38:31 -0400" Type="Folder">
@@ -229,6 +238,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>1528,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="117" UUID="D51BAAE8-5AB9-4821-9570-649D576937ED" Created="2017-09-25 08:56:58 -0400" Modified="2017-09-25 09:01:52 -0400" Type="Text">
+                                            <Title>Jessica Etoile</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
                                                 <Target Type="Words">0</Target>
                                             </TextSettings>
                                         </BinderItem>
@@ -254,15 +272,45 @@
                                                 <Target Type="Words">0</Target>
                                             </TextSettings>
                                         </BinderItem>
+                                        <BinderItem ID="120" UUID="003B4FF6-6BEF-45B2-B9B9-3196D72EB553" Created="2017-09-25 09:02:11 -0400" Modified="2017-09-25 09:02:13 -0400" Type="Text">
+                                            <Title>Singing Fury</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="121" UUID="14141B15-2AF4-4714-80AD-23C081888740" Created="2017-09-25 09:02:27 -0400" Modified="2017-09-25 09:02:31 -0400" Type="Folder">
+                    <Title>Scions Of The Seventh Dawn</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="122" UUID="D83FE9B7-225C-41A1-B624-84F54C80B062" Created="2017-09-25 09:12:45 -0400" Modified="2017-09-25 09:13:22 -0400" Type="Text">
+                            <Title>Moenbryda</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1725,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="61" UUID="DB4A1267-2FC4-4628-952B-7AC9CF792DFD" Created="2017-09-04 20:25:37 -0400" Modified="2017-09-04 20:26:02 -0400" Type="Folder">
+        <BinderItem ID="61" UUID="DB4A1267-2FC4-4628-952B-7AC9CF792DFD" Created="2017-09-04 20:25:37 -0400" Modified="2017-09-25 09:12:40 -0400" Type="Folder">
             <Title>Guilds, Jobs &amp; Classes</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -753,6 +801,48 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="115" UUID="285BC106-C2CB-4BC4-9D52-DFDB7C03D2ED" Created="2017-09-25 08:56:47 -0400" Modified="2017-09-25 08:56:47 -0400" Type="Folder">
+                    <Title>DPS (Magic)-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="116" UUID="A5047B5A-1DDB-4D27-8CDB-DCC5558458C0" Created="2017-09-25 08:56:47 -0400" Modified="2017-09-25 08:56:47 -0400" Type="Text">
+                            <Title>Mihkhi Khamun</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="118" UUID="D84F6FAA-D1C3-4E41-8BC6-99CCD6286549" Created="2017-09-25 09:02:06 -0400" Modified="2017-09-25 09:02:06 -0400" Type="Folder">
+                    <Title>Support-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="119" UUID="99CA38BC-F7D7-4778-80D2-4A67D7EC4000" Created="2017-09-25 09:02:06 -0400" Modified="2017-09-25 09:02:06 -0400" Type="Text">
+                            <Title>D'namis Tia</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="29" UUID="AC80BE2D-A6AE-4FC8-9E92-60573A7AAECC" Created="2011-07-20 12:15:20 -0400" Modified="2017-07-20 20:35:41 -0400" Type="Folder">
@@ -941,7 +1031,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1288" Characters="7789" Date="2017-09-25 04:54:32 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2017-09-25 09:15:28 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
