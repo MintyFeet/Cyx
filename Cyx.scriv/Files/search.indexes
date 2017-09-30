@@ -2,7 +2,7 @@
 <SearchIndexes Version="1.0">
     <Documents>
         <Document ID="4">
-            <Title>Prologues</Title>
+            <Title>Book 0: Prologue</Title>
         </Document>
         <Document ID="11">
             <Title>E-Book</Title>
@@ -178,23 +178,63 @@ Your dedication here.</Text>
         </Document>
         <Document ID="25">
             <Title>Character Sketch</Title>
-            <Text>Name
+            <Text>
+[NAME]
+
+[Short Description]
 
 
-Nicknames: Baatar (shortened name used by friends), “Dragon-lass” (used by Aldis, much to Baatar’s chagrin)
-Epithet: 
 
-Race: Xaela Au Ra
-Class: Marauder —&gt; Warrior
-Sub-Class (HW): ???
-Skills: Culinary, Mining
 
-Born: 1554 (6th Astral)
-Age (beginning of A Realm Reborn): 23
+Basic Information
 
-Parents: Chinjaal Kha(Mother, deceased 1558), Ganbaatar Kha (Father, deceased 1558). Both killed by Garleans during the Kha’s initial flight to Eorzea. Idertuuya Kha (Stepmother, 53)
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
 
-Echo: Conceptual Reinforcement</Text>
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
         </Document>
         <Document ID="29">
             <Title>Front Matter</Title>
@@ -203,27 +243,42 @@ Echo: Conceptual Reinforcement</Text>
             <Title>Title Page</Title>
         </Document>
         <Document ID="41">
-            <Title>Warriors of Light</Title>
+            <Title>Warriors of Light (Player Characters)</Title>
         </Document>
         <Document ID="42">
             <Title>Baatarsaikhan Kha</Title>
+            <Synopsis>Main protagonist; Xaela Warrior
+
+</Synopsis>
             <Text>Baatarsaikhan Kha
 
 
+Basic Information
+
+Date of Birth: 1554-6A
+Age:
+ARR (4th Sun of 1st Astral Moon, Year 5 of 7U): 23
+
 
 Nicknames: Baatar (shortened name used by friends), “Dragon-lass” (used by Aldis, much to Baatar’s chagrin)
-Epithet: “
-
-Race: Xaela Au Ra
+Epithet: 
+Race: Au Ra - Xaela
+Languages Spoken: Omniglot (Echo), 
 Class: Marauder —&gt; Warrior
-Sub-Class: ? (Heavensward), Commando (Stormblood)
-Skills: Culinary, Mining
+Sub-Class: Commando (Stormblood)
+Skills
 
-Born: 1554 (6th Astral)
-Age (beginning of A Realm Reborn): 23
+
+
+Relations
 
 Parents: Chinjaal Kha(Mother, deceased 1558), Gonbaatar Kha (Father, deceased 1558). Both killed by Garleans during the Kha’s initial flight to Eorzea. Idertuuya Kha (Stepmother, 53)
 Siblings: Momolk Molkoh (Adoptive), Xomni’to Molkoh (Adoptive)
+
+
+
+
+
 
 Echo: Conceptual Reinforcement
 
@@ -238,7 +293,7 @@ WARRIOR
 
 Baatarsaikhan’s natural affinity for anger - especially towards Garleans - and her strong, often solidly black-and-white sense of justice makes her a perfect candidate for being a Warrior. Her subconscious (and eventually conscious) desire for violence and conflict, combined with this seething rage which sits beneath the surface of her personality means that, since a young age, Baatar has been “in tune” with her Inner Beast; unlike most Warriors, who contend with their Inner Beast before and after their training, Baatarsaikhan generally has no trouble keeping it in control. Unleashing her Inner Beast is not letting loose, or unleashing a monster kept in check - it’s simply her showing her “true colours.”
 
-Strong emotions and events can still push her over the edge and cause Baatar to begin to lose control of the Inner Beast, though it is difficult; Gaius van Baelsar and his Tribunes are the only ones who can reliably cause this to happen.
+Strong emotions and events can still push her over the edge and cause Baatar to begin to lose control of the Inner Beast, though it is difficult; even then, Baatar’s not likely to attack her friends so much as lose control of her bloodlust towards her enemies.
 
 COMMANDO
 
@@ -251,7 +306,7 @@ Biography:
 
 Before Eorzea
 
-Baatarsaikhan Kha was born in 1554-6A on the Azim Steppe; she was raised until the age of 4 on the Steppe in a small offshoot of the Kha tribe, who unlike most Steppe-dwellers lived on the fringes of Xaela territory and actively sought out elements of non-Auri culture. Thus, Baatar learned to speak not only Xaela, but also Eorzean - and, if she had remained on the Steppe, would have learned Yamago as well.
+Baatarsaikhan Kha was born in 1554-6A on the Azim Steppe; she was raised until the age of 4 on the Steppe in a small offshoot of the Kha tribe, who unlike most Steppe-dwellers lived on the fringes of Xaela territory and actively sought out elements of non-Auri culture. Thus, Baatar learned to speak not only Xaela, but also Eorzean - and, if she had remained on the Steppe and followed her parents’ wishes, would have learned Yamago as well.
 
 Due to the threat of both Garlean incursion and other, more hostile tribes, part of the Kha tribe elected to flee the Steppe; thanks to their contacts with off-continent traders, this offshoot was able to make a deal with the crew of the Little Kweh, and arraigned to be given passage to Eorzea. Leading up to the day of pickup (7-2U-6A), Garlean troop movement and hostile tribes forced the refugees to move closer to the city; Garlean regulars captured several of the clan’s scouts and forced them to make a run for the ships in the early morning of the 8th. In the rush through the captured port, a good portion of the clan was killed; of the 79 people who intended to make the journey to Eorzea only 28 actually made it to the boats. Chinjaal and Gonbaatar both died holding back the Garlean troops.
 
@@ -839,7 +894,28 @@ Born into a minor house of nobility, Valarr was raised in the Pillars of Ishgard
 Personality:
 Dour and unassuming, Valarr shares his countrymen's institutionalized wariness towards dragonkind. Whatever merriment he might have enjoyed has been dampened due to his previous experiences as the sole survivor of his company, leaving a man tenacious and uncompromising in regards to his duty towards Ishgard. Known for his professionalism, it was to some surprise his colleagues in the Congregation of the Knights Most Heavenly learned of his failure to safeguard an inquisitor while in the field. Dark rumors that Valarr's hands were guilty of more than mere negligence abound, but were not countenanced as evidence during the court martial. Even if remotely plausible, his fellow knights scoffed, what possible horror could have caused a devout follower of the Faith to turn his blade against an inquisitor?
 
-Echo: Aethershield</Text>
+Echo: Aethershield
+
+
+Valére Hérisson
+
+
+Nicknames: Val
+Epithet: 
+
+Race: Elezen - Ishgardian Wildwood
+Class: Knight —&gt; Hospitaller
+Sub-Class (HW): ???
+Skills: Culinary, Mining
+
+Born: 1547 6th Astral
+Age (beginning of A Realm Reborn): 30
+
+Parents: Chinjaal Kha(Mother, deceased 1558), Ganbaatar Kha (Father, deceased 1558). Both killed by Garleans during the Kha’s initial flight to Eorzea. Idertuuya Kha (Stepmother, 53)
+
+Echo: Aethershield
+
+</Text>
         </Document>
         <Document ID="58">
             <Title>Cherantai Borlaaq</Title>
@@ -1149,7 +1225,7 @@ Echo: Nature Attunement</Text>
             <Title>Scions Of The Seventh Dawn</Title>
         </Document>
         <Document ID="122">
-            <Title>Moenbryda</Title>
+            <Title>Moenbryda Wilfsunnwyn</Title>
             <Text>Moenbryda. I'm REAL excited for her to live b/c she continues to be important (GODSDAMNIT SE, WHY DID YOU KILL HER OFF SO QUICKLY)
 - 2.2 - the Sahagin priest/Leviathan - the whole thing with the Echo
 - Urianger gives them her last white auracite before they head to Azys Lla
@@ -1165,6 +1241,212 @@ So:
 - Now Moenbryda can make the aetheric sphion and fix the aetheryte (or, idk send notes to Urianger on account of kicking ass with them in the field???)
 
  screams at SE for wasting a perfectly good character. If you wanted to off someone, Thancred would have been perfect. (i don't actually hate Thancred)(edited)</Text>
+        </Document>
+        <Document ID="123">
+            <Title>Height Chart</Title>
+            <Text>Race        0     50    100
+Roeg♂:           7'0.1&quot;     7'3.4&quot;    7'6.7&quot;
+Roeg♀:           6'3.6&quot;     6'9.6&quot;    7'3.7&quot;
+Elezen♂:         6'4.4&quot;     6'7.5&quot;    6'10.2&quot;
+Elezen♀:         6'0.2&quot;     6'3.8&quot;    6'6.8&quot;
+Highlander♂:   6'0.2&quot;    6'3.8&quot;     6'6.8&quot;
+Highlander♀:   5'6.2&quot;    5'11&quot;      6'1.8&quot;
+Midlander♂:     5'6.1&quot;    5'8.9&quot;     5'11.6&quot;
+Midlander♀:     5'2&quot;       5'4.5&quot;     5'7.1&quot;
+Miqo'te♂:         5'2.7&quot;    5'5.4&quot;     5'8.2&quot;
+Miqo'te♀:         4'10.9&quot;  5'1.4&quot;     5'3.8&quot;
+Lalafell♂:         2'10.2&quot;  3'0.2&quot;     3'2.2&quot;
+Lalafell♀:         2'10.2&quot;  3'0.2&quot;     3'2.2&quot;
+Au Ra ♂             6′7                       7′1
+Au Ra ♀             4′8                       5′2</Text>
+        </Document>
+        <Document ID="124">
+            <Title>Baatarsaikhan Kha</Title>
+        </Document>
+        <Document ID="125">
+            <Title>Baatarsaikhan Kha</Title>
+            <Text>Baatarsai
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+
+
+</Text>
+        </Document>
+        <Document ID="126">
+            <Title>Baatarsaikhan Kha</Title>
+            <Text>
+Baatarsaikhan Kha
+
+Fiery and outgoing, Baatarsaikhan is a proud Warrior with a strong sense of justice and a love of battle.
+
+
+
+
+Basic Information
+
+Sex: Female
+Race: Au Ra - Xaela
+Date of Birth: 1554, 6th Astral
+Place of Birth: Azim Steppe
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 23
+
+Titles
+
+Appearance
+
+Tall for a female Au Ra, Baatarsaikhan was of a muscular build even before starting life as an adventurer. Between her red-white eyes, horns and generally rough-looking appearance, strangers often see Baatar’s rough appearance as being intimidating or unsettling.
+
+She wears her hair unstyled and unkempt, like her mother’s for most of ARR, though she cuts it short before Operation Archon; she also takes her mother’s face-markings then - a traditional Kha symbol shared by other tribes upon the Steppe which identifies the wearer as someone “in tune with their warrior spirit.”
+
+Height: 5’2 (5 yalms, 2 ilms)
+Horns: Forward-curling
+Hair: Purple (Natural)
+Hairstyle (A Realm Reborn): Unkempt, shaggy; worn to shoulders
+Eyes: Red with white limbal ring
+Skin: Dark Blue
+Distinguishing Markings: Various cuts &amp; scars from injuries sustained during the Calamity; Dotted red lines beneath eyes
+
+
+Relations
+
+Parents: Chinjaal Kha (Mother) and Ganbaatar Kha (Father). Both died in 1558 during the Lominsan-Kha group’s flight to Eorzea; since then Idertuuya Kha, aged 53 as of the start of ARR has acted as her stepmother (Second-Mother in Xaela parlance.)
+
+Siblings: Momolk Molkoh (Adoptive), Xomni’to Molkoh (Adoptive)
+
+Family: Oyuunchimeg Kha (Cousin) and Terbish Kha (Uncle) are Baatarsaikhan’s only surviving family post-Calamity.
+
+Romantic Interests: Kanna Minamoto (rejected), Sidurgu Orl (held off until after Heavensward)
+
+
+Class &amp; Character Info
+
+Education: Little in the way of formal education. Baatar, like the other children of the Lominsan Xaela, was taught Dhonic script and some basic history in the temples of Thaliak in Limsa Lominsa; she struggled with her lessons as a teen in the Arcanists’ Guild and did not pursue further education after the Calamity.
+
+Languages: Echo-Omniglot. Baatar is fluent in Dhonic, speaking it with a strong sailor’s Lominsan accent; she also speaks Xaela Khel, but her grasp of the language, spoken or writen, diminishes significantly over time until Cherantai spends a great deal of time teaching her during Stormblood on the trip to Kugane. Baatar’s losing of her mother tongue and her reliance on the Echo is a source of great frustration and shame.
+
+Class: Marauder —&gt; Warrior
+
+Baatarsaikhan’s fighting style is rooted that used by Lominsan sailors - a brutal combination of sawn-off shotguns, axe, dagger and fists. 
+
+As a Warrior, Baatarsaikhan soon learns of the Inner Beast that other Warriors must deal with and is confused that hers has never manifested or taken over her mind. Baatar’s innate love of violence and the near-endless reserve of anger and rage for the Garlean Empire which fuels much of her willpower - held since a young age - has meant that Baatar has, in fact, been interacting with her Inner Beast since the age of five. In truth, Baatar no longer lives in opposition to her Inner Beast - she is nearly entirely “in tune” with it, drawing on it as a source of strength and power rather than worrying about holding it in check. Her use of Inner Release and other “dangerous” techniques aren’t so much releasing her limits as it is showing her true personality. Only when confronted by Garleans - especially high-ranking ones like Gaius van Baelsar, or traitors like Laurentius - does her Inner Beast begin to spiral out of control. Even then she is not inclined to attack her enemies, instead losing focus on things beyond the fight.
+
+
+Sub-Classes: Commando (pre-Stormblood); Baatarsaikhan is one of the adventurers approached by Raubahn post-Heavensward to help put together a training regimen and doctrine for the Eorzean Alliance’s Commandos.
+
+Skills: Culinarian, Miner
+
+Baatarsaikhan is an excellent cook with an intuitive taste for coming up with new recipes, making use of goods local to her current area - though she lacks Kanna’s finesse. (She is also rather poor at baking anything beyond basic breads.) She’s also a fairly decent miner.
+
+Free Company: The Biggest Kweh
+
+ 	
+Personality
+
+
+Strengths:
+
+
+Weaknesses:
+
+
+Echo: Conceptual Reinforcement
+
+Conceptual Reinforcement is a low-yield reality-warping power which takes Baatarsaikhan’s conception of the world and pushes objective reality towards that concept. It has been constantly active since the Calamity, and despite not figuring out what her manifestation of the Echo is until much later than the other Warriors of Light she makes unconscious use of it on a daily basis. On a basic level, Baatar uses it to enhance her own abilities; she does not need to rest as much as others, can heal faster, is stronger, etc - because she believes she can do, or is all of those things. Even something as innocuous as her belief that she can drink more than anyone else makes use of the power - since Baatarsaikhan believes that she can do so, she can. 
+
+The power is tied to Baatar’s anima and willpower - with enough effort and exertion, Baatar can outright ignore the laws of reality. During her first “activation” of her ability during the Calamity, Baatarsaikhan was able to walk around, search for and carry the Molkohs despite the fact that both of her legs were broken and her body was, objectively speaking, incapable of doing so. In the same vein, however, “active” use of her ability drained her anima and willpower - the second she found the medical help she wanted for her siblings, her ability shut off (though she was put to sleep before she could feel the pain of her injuries.) As shown, this power is not limitless - Baatar can only push reality’s laws so hard before it simply re-asserts itself.
+
+ It is also important to note that this effect works in reverse; Baatar, who never excelled at traditional “book learning” in her youth, continues to have difficulty with such despite her being more than capable of technically learning these things as an adult. CR takes her conception that she is not good at studies and reinforces it, making it harder (and in some cases nigh impossible) for her to achieve anything in that field.
+
+
+
+Biography
+
+
+Before Eorzea
+
+Baatarsaikhan Kha was born in 1554-6A on the Azim Steppe; she was raised until the age of 4 on the Steppe in a small offshoot of the Kha tribe, who unlike most Steppe-dwellers lived on the fringes of Xaela territory and actively sought out elements of non-Auri culture. Thus, Baatar learned to speak not only Xaela, but also Eorzean - and, if she had remained on the Steppe and followed her parents’ wishes, would have learned Yamago as well.
+
+Due to the threat of both Garlean incursion and other, more hostile tribes, part of the Kha tribe elected to flee the Steppe; thanks to their contacts with off-continent traders, this offshoot was able to make a deal with the crew of the Little Kweh, and arraigned to be given passage to Eorzea. Leading up to the day of pickup (7th of 2U-6A), Garlean troop movement and hostile tribes forced the refugees to move closer to the city; Garlean regulars captured several of the clan’s scouts and forced them to make a run for the ships in the early morning of the 8th. In the rush through the captured port, a good portion of the clan was killed; of the 79 people who intended to make the journey to Eorzea only 28 actually made it to the boats. Chinjaal and Gonbaatar both died holding back the Garlean troops.
+
+Baatar spent the next two months aboard the Little Kweh; though she and the other refugees were kept belowdecks whenever the ship was in port she was still able to receive gifts from each port, as well as instruction in Eorzean Common, numbers and figures. She also was instructed in the basics of Steppe-living (survival tactics, cooking, and the basics of axe, sword, spear and bow.) She took to the axe quickly, and would strike up a friendship with many of the crew - including Pfarberk Iyrnfhissyn and Arnar Young. 
+
+Adapting to Eorzea
+
+
+
+</Text>
+        </Document>
+        <Document ID="127">
+            <Title>Non-Player Characters</Title>
+        </Document>
+        <Document ID="128">
+            <Title>Limsa Lominsa</Title>
+        </Document>
+        <Document ID="129">
+            <Title>Ul'dah</Title>
+        </Document>
+        <Document ID="130">
+            <Title>Gridania</Title>
+        </Document>
+        <Document ID="131">
+            <Title>Ishgard</Title>
+        </Document>
+        <Document ID="132">
+            <Title>Eorzea</Title>
+        </Document>
+        <Document ID="133">
+            <Title>Minfilia Warde</Title>
+            <Text>
+</Text>
+        </Document>
+        <Document ID="134">
+            <Title>Kha Family</Title>
         </Document>
     </Documents>
 </SearchIndexes>
