@@ -177,22 +177,21 @@ Your dedication here.</Text>
 		Notes:	</Text>
         </Document>
         <Document ID="25">
-            <Title>Character Sketch</Title>
-            <Text>
-[NAME]
+            <Title>Minfilia Warde</Title>
+            <Text>Minfilia Warde
 
-[Short Description]
+Leader of the Scions of the Seventh Dawn after Louisoix’s disappearance. 
 
 
 
 
 Basic Information
 
-Sex: 
-Race:
+Sex: Female
+Race: Hyur - Midlander
 Date of Birth:
 Place of Birth:
-Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 27
 
 
 Appearance
@@ -209,7 +208,7 @@ Relations
 Parents:
 Siblings:
 Family:
-Romantic Interests:
+Romantic Interests: N/A
 
 Class &amp; Character Info
 
@@ -226,7 +225,7 @@ Description:
 Strengths:
 Weaknesses:
 
-Echo
+Echo: The Hand Of The Mother
 
 Biography
 
@@ -385,7 +384,7 @@ Echo: Clarivoyance
 </Text>
         </Document>
         <Document ID="46">
-            <Title>Light Party</Title>
+            <Title>Light Party: Limsa Lominsa</Title>
         </Document>
         <Document ID="47">
             <Title>Adventurer Allies</Title>
@@ -885,37 +884,6 @@ Class: N/A</Text>
         </Document>
         <Document ID="57">
             <Title>Valére Hérisson</Title>
-            <Text>Age (Year of the Calamity):
-30
-
-Bio:
-Born into a minor house of nobility, Valarr was raised in the Pillars of Ishgard. Like much of his noble peers, he was indoctrinated from a young age to aspire to service of the Holy See. Lacking the financial means of more established houses, the Scholasticae's path was denied to him, though Valarr remained a devout of Halone throughout his life. This was no doubt aided by his enlistment within the Temple Knights, where he would remain after completing his apprenticeship as a squire at the age of 19. Valarr's combat record did not mark him to be a warrior of great renown, though the Temple Knights do notate the man to be notoriously difficult to kill, having survived (albeit grievously wounded) no less than four times where his entire unit was slain by the Dravanian Hordes. Official records of his Ishgardian service end with his dishonorable discharge from the Temple Knights in his 30th year for failing to preserve the life of an inquisitor during a heretic raid in the Western Highlands. Though the clergy originally pushed for capital punishment, Temple Knight leadership deemed veteran swords too limited a resource with Nidhogg's revival and commuted the sentence to a 5-year banishment.
-
-Personality:
-Dour and unassuming, Valarr shares his countrymen's institutionalized wariness towards dragonkind. Whatever merriment he might have enjoyed has been dampened due to his previous experiences as the sole survivor of his company, leaving a man tenacious and uncompromising in regards to his duty towards Ishgard. Known for his professionalism, it was to some surprise his colleagues in the Congregation of the Knights Most Heavenly learned of his failure to safeguard an inquisitor while in the field. Dark rumors that Valarr's hands were guilty of more than mere negligence abound, but were not countenanced as evidence during the court martial. Even if remotely plausible, his fellow knights scoffed, what possible horror could have caused a devout follower of the Faith to turn his blade against an inquisitor?
-
-Echo: Aethershield
-
-
-Valére Hérisson
-
-
-Nicknames: Val
-Epithet: 
-
-Race: Elezen - Ishgardian Wildwood
-Class: Knight —&gt; Hospitaller
-Sub-Class (HW): ???
-Skills: Culinary, Mining
-
-Born: 1547 6th Astral
-Age (beginning of A Realm Reborn): 30
-
-Parents: Chinjaal Kha(Mother, deceased 1558), Ganbaatar Kha (Father, deceased 1558). Both killed by Garleans during the Kha’s initial flight to Eorzea. Idertuuya Kha (Stepmother, 53)
-
-Echo: Aethershield
-
-</Text>
         </Document>
         <Document ID="58">
             <Title>Cherantai Borlaaq</Title>
@@ -1336,11 +1304,13 @@ Date of Birth: 1554, 6th Astral
 Place of Birth: Azim Steppe
 Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 23
 
-Titles
+
+
+
 
 Appearance
 
-Tall for a female Au Ra, Baatarsaikhan was of a muscular build even before starting life as an adventurer. Between her red-white eyes, horns and generally rough-looking appearance, strangers often see Baatar’s rough appearance as being intimidating or unsettling.
+Tall for a female Au Ra, Baatarsaikhan was of a muscular build even before starting life as an adventurer. Between her red-white eyes, horns and generally scarred and weathered-looking appearance, strangers often see Baatar’s rough appearance as being intimidating or unsettling.
 
 She wears her hair unstyled and unkempt, like her mother’s for most of ARR, though she cuts it short before Operation Archon; she also takes her mother’s face-markings then - a traditional Kha symbol shared by other tribes upon the Steppe which identifies the wearer as someone “in tune with their warrior spirit.”
 
@@ -1359,7 +1329,7 @@ Parents: Chinjaal Kha (Mother) and Ganbaatar Kha (Father). Both died in 1558 dur
 
 Siblings: Momolk Molkoh (Adoptive), Xomni’to Molkoh (Adoptive)
 
-Family: Oyuunchimeg Kha (Cousin) and Terbish Kha (Uncle) are Baatarsaikhan’s only surviving family post-Calamity.
+Family: Besides her stempother, Oyuunchimeg Kha (Cousin) and Terbish Kha (Uncle) are Baatarsaikhan’s only original surviving family post-Calamity.
 
 Romantic Interests: Kanna Minamoto (rejected), Sidurgu Orl (held off until after Heavensward)
 
@@ -1442,11 +1412,1460 @@ Adapting to Eorzea
         </Document>
         <Document ID="133">
             <Title>Minfilia Warde</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="134">
             <Title>Kha Family</Title>
+        </Document>
+        <Document ID="135">
+            <Title>Idertuuya Kha</Title>
+            <Text>
+Idertuuya Kha
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: Female
+Race: Au Ra - Xaela
+Date of Birth: 1524, Sixth Astral
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 53
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="136">
+            <Title>Moenbryda Wilfsunnwyn</Title>
+            <Text>Moenbryda Wilfsunnwyn
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+Moenbryda. I'm REAL excited for her to live b/c she continues to be important
+- 2.2 - the Sahagin priest/Leviathan - the whole thing with the Echo
+- Urianger gives them her last white auracite before they head to Azys Lla
+- Moenbryda and Yda call each other 'sister'. Which could mean that Moenbryda knows exactly who she is. Probably knew the actual Yda. 
+- Alisaie mentions that Moenbryda could fix the aetheryte in the House of Fierce 'with her eyes closed' and that she and Alphinaud learned what they knew of aetherytes from her. 
+- The 'Warrior of Light can shield others within a limited radius from primal branding' was cool (i had been thinking about that myself) but came out of nowhere
+- Urianger recreates Moenbryda aether boom stick thing (the aetheric sphion!) to smack down Fordola. 
+So:
+- She would be super usefulin the Leviathan ... situation (Moenbryda/Minfilia tag team???)
+- Now Moenbryda can show up at Ishgard/be in Ishgard/idk she can give them white auracite herself or hells come along with her axe and chop off Garlean heads. 
+- What if she went to Doma too? As someone knowing of Lyse's struggles she could help loads.
+ - Moenbryda can poke the Warriors of Light for details on their 'aether-weirdness' and speculate on it and lead to the 'you can shield people!' maybe they can do it together to make the radius bigger or whatever
+- Now Moenbryda can make the aetheric sphion and fix the aetheryte (or, idk send notes to Urianger on account of kicking ass with them in the field???)
+
+ screams at SE for wasting a perfectly good character. If you wanted to off someone, Thancred would have been perfect. (i don't actually hate Thancred)(edited)
+
+
+</Text>
+        </Document>
+        <Document ID="137">
+            <Title>Minfilia Warde-1</Title>
+            <Text>
+</Text>
+        </Document>
+        <Document ID="138">
+            <Title>Minfilia Warde-2</Title>
+            <Text>
+</Text>
+        </Document>
+        <Document ID="139">
+            <Title>Merlwyb Bloefhiswyn </Title>
+            <Text>
+Merlwyb Bloefhiswyn 
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken: Dhonic
+
+Class: Corsair
+
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo : N/A
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="140">
+            <Title>Mihkhi Khamun</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+Name: Minkhi Khamun
+
+Race: Keeper of The Moon, Miqo’te
+Class: Black Mage
+Sub-Class (HW): ???
+Skills: Culinary, Mining
+
+Born: 1556 (6th Astral)
+Age (as of Arc I): 21
+Parents: Rane Khamun, Aroh'to Khamun
+
+I would like to submit my character for use in Cyx! Her name is Mickey Katmunch, and she is a Keeper of the Moon Black Mage hailing from Gridinia, but working for the Maelstorm. Clearly, the name needs to go, but I would love to see a character similar to her pop up in a full party, even under a completely different name. 
+For back story I was thinking something along the lines of working with the conjurer's guild near Ampador and stumbling apon and ancient Black Mage artifact captured by the White Mages and becoming intrigued by the power teased by it. She ends up traveling to Ul'dah to learn more, eventually becoming a Black Mage. From there she is contracted by various privateers as a living artillery piece for use to disable ships. This, eventually, gets her a place serving with the Maelstorm. 
+Personality wise, she would be of a mercenary bent and with a bit of a hot head born from a boredom of constant elemental pleasing. She is always looking to test new magics, with getting payed to do so all the better.
+
+Clothes would be the Battlemages set because nothing beats the classics. 
+I am not married to the vast majority of this and would be happy to see most of it thrown out. Also, if this doesn't work for any reason and you don't what her in, just let me know. Lord knows cat-girls are a dime a dozen.
+
+</Text>
+        </Document>
+        <Document ID="141">
+            <Title>Edward Tanner</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="142">
+            <Title>Terbish Kha</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="143">
+            <Title>Oyuunchimeg Kha</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="144">
+            <Title>The Maelstrom &amp; Admiralty</Title>
+        </Document>
+        <Document ID="145">
+            <Title>Light Party: Gridania</Title>
+        </Document>
+        <Document ID="146">
+            <Title>Valére Hérisson</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo: Aethershield
+
+Biography
+
+
+Age (Year of the Calamity):
+30
+
+Bio:
+Born into a minor house of nobility, Valarr was raised in the Pillars of Ishgard. Like much of his noble peers, he was indoctrinated from a young age to aspire to service of the Holy See. Lacking the financial means of more established houses, the Scholasticae's path was denied to him, though Valarr remained a devout of Halone throughout his life. This was no doubt aided by his enlistment within the Temple Knights, where he would remain after completing his apprenticeship as a squire at the age of 19. Valarr's combat record did not mark him to be a warrior of great renown, though the Temple Knights do notate the man to be notoriously difficult to kill, having survived (albeit grievously wounded) no less than four times where his entire unit was slain by the Dravanian Hordes. Official records of his Ishgardian service end with his dishonorable discharge from the Temple Knights in his 30th year for failing to preserve the life of an inquisitor during a heretic raid in the Western Highlands. Though the clergy originally pushed for capital punishment, Temple Knight leadership deemed veteran swords too limited a resource with Nidhogg's revival and commuted the sentence to a 5-year banishment.
+
+Personality:
+Dour and unassuming, Valarr shares his countrymen's institutionalized wariness towards dragonkind. Whatever merriment he might have enjoyed has been dampened due to his previous experiences as the sole survivor of his company, leaving a man tenacious and uncompromising in regards to his duty towards Ishgard. Known for his professionalism, it was to some surprise his colleagues in the Congregation of the Knights Most Heavenly learned of his failure to safeguard an inquisitor while in the field. Dark rumors that Valarr's hands were guilty of more than mere negligence abound, but were not countenanced as evidence during the court martial. Even if remotely plausible, his fellow knights scoffed, what possible horror could have caused a devout follower of the Faith to turn his blade against an inquisitor?
+
+Echo: Aethershield
+
+
+Valére Hérisson
+
+
+Nicknames: Val
+Epithet: 
+
+Race: Elezen - Ishgardian Wildwood
+Class: Knight —&gt; Hospitaller
+Sub-Class (HW): ???
+Skills: Culinary, Mining
+
+Born: 1547 6th Astral
+Age (beginning of A Realm Reborn): 30
+
+Parents: Chinjaal Kha(Mother, deceased 1558), Ganbaatar Kha (Father, deceased 1558). Both killed by Garleans during the Kha’s initial flight to Eorzea. Idertuuya Kha (Stepmother, 53)
+
+Echo: Aethershield
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="147">
+            <Title>D'namis Tia</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo: Natural Attunement
+
+Biography
+
+Name: D’namis Tia
+Race: Sunseeker Miqo'te
+Class: White Mage 
+Skills: Botanist
+
+Background:D’namis was born to a family of farmers in Summerford as the eldest of three children and showed a close affinity for all things natural. During their usual bi-monthly trade visit with his 
+parents to the Botanist’s Guild in Gridania when he was 13, D’namis accidentally stumped upon the Conjurer’s Guild and managed to sit in on the day’s lectures without anyone noticing that he was, 
+in fact, not a student. Figuring there was little to lose, D’namis was given preliminary testing and showed a great deal of potential in conjury. He would continue to attend classes at the guild during 
+these visits until his explanation of being able to “hear the earth and the water” was found out; after that, the guild took an active interest in recruiting him. At the age of 16 he was allowed to 
+leave him and stayed in Gridania for training; as a trainee he was charged with assisting healing of long-term wounded, and as such was away from the frontlines during the Calamity.
+
+
+Personality: Chill and relaxed when socializing, feels like he babysit's children while healing. Tough-love bedside manner
+
+Note: Skilled Botanist and scholar (book-lover not the healer job). Minor Alchemist specializing in wand/staff lore 
+
+Echo: Nature Attunement
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="148">
+            <Title>Cherantai Borlaaq</Title>
+            <Text>
+Cherantai Borlaaq
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: Female
+Race: Au Ra - Xaela
+Date of Birth: 1555, Sixth Astral
+Place of Birth: Azim Steppe
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 24
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents: Limbe Borlaaq (Mother), Nairagch Noykin (Father)
+Siblings: None
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo: Anima Acceleration
+
+Biography
+
+
+
+Name: Cherantai Borlaaq
+Nicknames: Cheran / Cher (shortened name used by friends), 
+Epithet: 
+
+Race: Xaela Au Ra
+Class: Lancer —&gt; Dragoon
+Sub-Class (HW): ???
+Skills: Culinary, Mining
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="149">
+            <Title>Osu Selesu</Title>
+            <Text>
+Osu Selesu
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: Male
+Race: Lalafell - Plainsfolk
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 29
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo: 
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="150">
+            <Title>Light Party: Ul'dah</Title>
+        </Document>
+        <Document ID="151">
+            <Title>Bethany Arkwright</Title>
+            <Text>
+Bethany Arkwright
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: Female
+Race: Hyur - Midlander
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 18
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+
+Class: Musketeer —&gt; Sniper
+
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo: 
+
+Biography
+
+
+
+Name: Bethany Arkwright
+Gender: Female
+Race: Hyur
+Clan: Midlander
+Class: Gunner(Machinist)
+Age: 18
+Appearance: Standing at average height Bethany Arkwright has short dark brown hair, fair skin and dark green eyes.
+Personality: Timid if not somewhat reserved Bethany shys away from overtly curious people and conversations in general despite this however she hates being alone; something that itself had been a result of her experiences during the Calamity.
+
+Backstory: A member of a group of mixraced ex-Garlean deserters and exiles who made a habit of never staying in any place for too long Bethany found herself growing up afraid of Eorzeans and of Garleans who would have brought them harm if the former knew who they were and of being found by the latter. From Gridania to Ul'dahn to Limsa Lomisa they had never made their home at any one destination and yet this had not spared Bethany or those she travelled with from the Calamity. Whether out of ill fortune or merely out of circumstances fragments of Dalhmund had stroked close enough to their camp to cause disaster; devestating the group and she herself in the death of her mother and the fall of her father who was lost with grief. Afterwards she and a few others of the group found themselves all but stranded in Limsa Lomisa, with nothing else and little left they worked and reassembling their lives amongst those who would have considered them enemies if they knew who they were.
+
+</Text>
+        </Document>
+        <Document ID="152">
+            <Title>Singing Fury</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="153">
+            <Title>Bradley Norwood</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: Male
+Race: Hyur - Midlander
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 28
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents: Petra Norwood, Delwyn Norwood
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+Born: 1549 (6th Astral)
+
+
+Bradley grew up in Gridania; his mother was a hunter and his father a lumberjack. Following both throughout his childhood he quickly grew to develop a love of exploration; despite his parents desire for him to remain safe 
+
+
+Has a highly self-deprecating sense of humor, and always has a random well-studied fact or tidbit of information semi-tangentially connected to a conversation. Can be a little bit of a show off when it comes to his agility. Bit of a night-owl.
+
+Grew up in Gridania, and loves to explore while climbing through the forests. Started travelling after having exploring every nook and cranny of the Black shroud. Once he arrived in Ul'dah, he discovered the Pugilist's guild, a perfect fit for someone with a balanced, active body like him, which lead to him quickly learning the art before setting off on his adventures once more. He's not very religious so he doesn't care for the spiritual side of the Fist of Rhalgr, but he doesn't mind those that do good for others in the name of religion. What you did for someone is more important than why you did it, in that regard. You do your thing, he'll do his. As long as they both help people, he's happy.
+</Text>
+        </Document>
+        <Document ID="154">
+            <Title>Lyngdorn Ahldthubrysyn</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="155">
+            <Title>Character Sketch</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="156">
+            <Title>Nicol Grunenberg</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: 
+Race:
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 18
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="157">
+            <Title>Jessica Etoile</Title>
+            <Text>
+June Stern (birth name Junia Lux Stella)
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: Female
+Race: Hyur - Midlander
+Date of Birth: 
+Place of Birth: Garlean Occupied Territories
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="158">
+            <Title>Momolk Molkoh</Title>
+            <Text>
+Momolk Molkoh
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: Female
+Race: Lalafell - Dunesfolk
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 23
+
+
+Appearance
+
+Height: 3’2
+Hair: 
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo: Aethersight + Aetherconstruction Intuition
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="159">
+            <Title>Xomni'to Molkoh</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: Male
+Race: Miqo’te - Keeper of the Moon
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 23
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo: Aethersight + Aetherconstruction Intuition
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="160">
+            <Title>Kanna Minamoto</Title>
+            <Text>
+[NAME]
+
+[Short Description]
+
+
+
+
+Basic Information
+
+Sex: Female
+Race: Au Ra - Raen
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 21
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents: Reiko Minamoto (Mother, 48), Keisuke Minamoto (Father, 50, Dying of unknown illness)
+Siblings:
+Family:
+Romantic Interests:
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo: Clarivoyance
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="161">
+            <Title>Krile Baldesion</Title>
+            <Text>Krile Mayer Baldesion
+
+
+
+
+
+
+Basic Information
+
+Birth Name: Kururu Kuru
+Sex: Female
+Race: Lalafell - Plainsfolk
+Date of Birth:
+Place of Birth:
+Age (A Realm Reborn - 4th Sun of 1st Astral Moon, Year 5-7U): 
+
+
+Appearance
+
+Height:
+Hair:
+Eyes:
+Skin:
+Features:
+
+
+Relations
+
+Parents:
+Siblings:
+Family:
+Romantic Interests: N/A
+
+Class &amp; Character Info
+
+Education:
+Languages Spoken:
+Class:
+Sub-Classes:
+Skills: 
+Free Company:
+ 	
+Personality
+
+Description:
+Strengths:
+Weaknesses:
+
+Echo: Aethertrace
+
+Biography
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="162">
+            <Title>Timeline</Title>
         </Document>
     </Documents>
 </SearchIndexes>

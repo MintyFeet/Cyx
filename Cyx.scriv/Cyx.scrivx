@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="LAPTOP-238A2O79" Modified="2017-09-29 15:27:46 -0400" ModID="87A6FB27-9109-4E71-B400-31780F6B8CAD">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="LAPTOP-238A2O79" Modified="2017-10-03 15:22:28 -0400" ModID="03B4B094-7754-4D8E-B707-7B312CEFDB7E">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0400" Modified="2014-06-12 18:17:20 -0400" Type="Text">
             <Title>Novel Format</Title>
@@ -43,23 +43,34 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="17" UUID="399C0CCC-17AD-4B67-A427-02A039B2EC48" Created="2010-10-19 08:06:35 -0400" Modified="2017-07-20 20:35:41 -0400" Type="Folder">
-                    <Title>Characters</Title>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="399C0CCC-17AD-4B67-A427-02A039B2EC48" Created="2010-10-19 08:06:35 -0400" Modified="2017-07-20 20:35:41 -0400" Type="Folder">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="41" UUID="4BB0BB14-6A6E-4915-AE6E-A52DFBFB09FC" Created="2017-07-20 20:24:59 -0400" Modified="2017-09-29 15:24:00 -0400" Type="Folder">
+                    <Title>Warriors of Light (Player Characters)</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Characters (Photo).png</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
-                    <CorkboardAndOutliner>
-                        <CorkboardSettings>
-                            <FreeformMode>Yes</FreeformMode>
-                        </CorkboardSettings>
-                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="41" UUID="4BB0BB14-6A6E-4915-AE6E-A52DFBFB09FC" Created="2017-07-20 20:24:59 -0400" Modified="2017-09-29 15:24:00 -0400" Type="Folder">
-                            <Title>Warriors of Light (Player Characters)</Title>
+                        <BinderItem ID="46" UUID="129641C1-636E-427A-A7E8-D3EDA252104E" Created="2017-08-16 13:29:27 -0400" Modified="2017-10-02 19:13:30 -0400" Type="Folder">
+                            <Title>Light Party: Limsa Lominsa</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -67,8 +78,286 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="46" UUID="129641C1-636E-427A-A7E8-D3EDA252104E" Created="2017-08-16 13:29:27 -0400" Modified="2017-08-16 13:29:31 -0400" Type="Folder">
-                                    <Title>Light Party</Title>
+                                <BinderItem ID="126" UUID="D3D7B320-D835-4183-84A0-217719DA810F" Created="2017-09-29 14:37:51 -0400" Modified="2017-10-03 15:13:36 -0400" Type="Text">
+                                    <Title>Baatarsaikhan Kha</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>4372,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="158" UUID="C03BFBF1-CE6B-444E-859E-202522D4779C" Created="2017-10-02 19:55:31 -0400" Modified="2017-10-03 15:13:16 -0400" Type="Text">
+                                    <Title>Momolk Molkoh</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>507,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="159" UUID="E23EC216-6781-47D4-929F-3B6E6713A1CD" Created="2017-10-02 19:55:39 -0400" Modified="2017-10-03 15:13:04 -0400" Type="Text">
+                                    <Title>Xomni'to Molkoh</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>501,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="160" UUID="6306E119-2B9B-4BD5-8FA5-87508508452E" Created="2017-10-02 19:55:39 -0400" Modified="2017-10-03 15:13:26 -0400" Type="Text">
+                                    <Title>Kanna Minamoto</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>542,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="145" UUID="29343106-1C0F-4F7E-A610-2BBEDDDA40CE" Created="2017-10-02 19:35:09 -0400" Modified="2017-10-02 19:35:13 -0400" Type="Folder">
+                            <Title>Light Party: Gridania</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="146" UUID="0D45D9FA-ABBC-49B0-82D3-D6588E847172" Created="2017-10-02 19:35:37 -0400" Modified="2017-10-03 15:12:17 -0400" Type="Text">
+                                    <Title>Valére Hérisson</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>664,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="147" UUID="1293E5B3-A7AB-408A-9C94-A4A25AD8CA14" Created="2017-10-02 19:36:07 -0400" Modified="2017-10-03 15:12:07 -0400" Type="Text">
+                                    <Title>D'namis Tia</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>442,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="148" UUID="2C984B7B-331E-4E3E-BDC3-7F8C3139B9FF" Created="2017-10-02 19:36:17 -0400" Modified="2017-10-03 15:21:28 -0400" Type="Text">
+                                    <Title>Cherantai Borlaaq</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>560,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="149" UUID="B8D85E8A-BB19-4268-B754-D64735B93188" Created="2017-10-02 19:36:18 -0400" Modified="2017-10-03 15:19:18 -0400" Type="Text">
+                                    <Title>Osu Selesu</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>456,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="150" UUID="4AE215C2-AC03-4853-B907-A2446234F674" Created="2017-10-02 19:42:56 -0400" Modified="2017-10-02 19:42:59 -0400" Type="Folder">
+                            <Title>Light Party: Ul'dah</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="154" UUID="96F9E268-AE31-4567-8A72-7EFD21314345" Created="2017-10-02 19:46:01 -0400" Modified="2017-10-02 19:46:03 -0400" Type="Text">
+                                    <Title>Lyngdorn Ahldthubrysyn</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="152" UUID="314146EB-2045-4D55-94AB-4218393A311E" Created="2017-10-02 19:43:41 -0400" Modified="2017-10-02 19:43:45 -0400" Type="Text">
+                                    <Title>Singing Fury</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="153" UUID="74FB7AA0-AA17-4D7C-8891-4C5DF194E86E" Created="2017-10-02 19:45:05 -0400" Modified="2017-10-02 19:59:38 -0400" Type="Text">
+                                    <Title>Bradley Norwood</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>511,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="140" UUID="A7C5FF14-B230-4DE3-B175-63CB06C9E3E3" Created="2017-10-02 19:19:39 -0400" Modified="2017-10-02 19:47:25 -0400" Type="Text">
+                                    <Title>Mihkhi Khamun</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1965,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="47" UUID="10806E05-E5BF-46C6-A544-C53B2771BB62" Created="2017-08-16 13:29:58 -0400" Modified="2017-09-25 06:37:36 -0400" Type="Folder">
+                            <Title>Adventurer Allies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="151" UUID="F7DF3142-3DC6-4CC5-A96F-AB6CE7726EF9" Created="2017-10-02 19:43:14 -0400" Modified="2017-10-03 14:45:10 -0400" Type="Text">
+                                    <Title>Bethany Arkwright</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>18,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="156" UUID="4921E828-B0D1-4DAD-8668-9723993C6E80" Created="2017-10-02 19:53:45 -0400" Modified="2017-10-03 14:36:28 -0400" Type="Text">
+                                    <Title>Nicol Grunenberg</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>51,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="157" UUID="0BB4B647-DD45-4C2D-AC5A-B21FE85563C7" Created="2017-10-02 19:53:45 -0400" Modified="2017-10-03 14:51:07 -0400" Type="Text">
+                                    <Title>Jessica Etoile</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>11,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="127" UUID="7D19018E-34AF-4F1F-B212-C7CBFF4E1BAC" Created="2017-09-29 15:24:07 -0400" Modified="2017-09-29 15:24:13 -0400" Type="Folder">
+                    <Title>Non-Player Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="132" UUID="4F4B0E57-1608-4FE9-A0B1-F9FF56E39195" Created="2017-09-29 15:25:23 -0400" Modified="2017-09-29 15:25:28 -0400" Type="Folder">
+                            <Title>Eorzea</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="121" UUID="14141B15-2AF4-4714-80AD-23C081888740" Created="2017-09-25 09:02:27 -0400" Modified="2017-10-02 19:26:15 -0400" Type="Text">
+                                    <Title>Scions Of The Seventh Dawn</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -76,8 +365,8 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem ID="126" UUID="D3D7B320-D835-4183-84A0-217719DA810F" Created="2017-09-29 14:37:51 -0400" Modified="2017-09-29 15:22:30 -0400" Type="Text">
-                                            <Title>Baatarsaikhan Kha</Title>
+                                        <BinderItem ID="136" UUID="2BD42738-D56B-4A36-973C-D361458B32AE" Created="2017-10-02 19:10:56 -0400" Modified="2017-10-02 19:20:20 -0400" Type="Text">
+                                            <Title>Moenbryda Wilfsunnwyn</Title>
                                             <MetaData>
                                                 <LabelID>6</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -87,57 +376,49 @@
                                                 <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>129,0</TextSelection>
+                                                <TextSelection>2128,0</TextSelection>
                                                 <Target Type="Words">0</Target>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem ID="43" UUID="8EC082C9-BCDF-4976-B729-69166CFB75D8" Created="2017-07-20 20:27:04 -0400" Modified="2017-09-04 20:01:52 -0400" Type="Text">
-                                            <Title>Momolk Molkoh</Title>
+                                        <BinderItem ID="25" UUID="C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A" Created="2014-06-12 01:52:57 -0400" Modified="2017-10-03 15:03:50 -0400" Type="Text">
+                                            <Title>Minfilia Warde</Title>
                                             <MetaData>
                                                 <LabelID>6</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>rtf</FileExtension>
+                                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>65,0</TextSelection>
+                                                <TextSelection>536,0</TextSelection>
                                                 <Target Type="Words">0</Target>
                                             </TextSettings>
-                                            <Keywords>
-                                                <KeywordID>3</KeywordID>
-                                            </Keywords>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="44" UUID="F656649F-64CC-4ECB-BB7C-9F68CBDFF131" Created="2017-07-20 20:27:12 -0400" Modified="2017-09-04 20:01:41 -0400" Type="Text">
-                                            <Title>Xomni'to Molkoh</Title>
+                                        <BinderItem ID="161" UUID="7553AEB4-BF23-4767-A082-BA49463C5ACE" Created="2017-10-03 14:54:41 -0400" Modified="2017-10-03 15:00:51 -0400" Type="Text">
+                                            <Title>Krile Baldesion</Title>
                                             <MetaData>
+                                                <LabelID>6</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>rtf</FileExtension>
+                                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>234,0</TextSelection>
+                                                <TextSelection>444,0</TextSelection>
                                                 <Target Type="Words">0</Target>
                                             </TextSettings>
-                                            <Keywords>
-                                                <KeywordID>4</KeywordID>
-                                            </Keywords>
-                                        </BinderItem>
-                                        <BinderItem ID="45" UUID="6F1597A5-E000-4E74-9031-6064787E657A" Created="2017-07-20 20:28:01 -0400" Modified="2017-09-04 20:01:47 -0400" Type="Text">
-                                            <Title>Kanna Minamoto</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <FileExtension>rtf</FileExtension>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>149,0</TextSelection>
-                                                <Target Type="Words">0</Target>
-                                            </TextSettings>
-                                            <Keywords>
-                                                <KeywordID>5</KeywordID>
-                                            </Keywords>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem ID="47" UUID="10806E05-E5BF-46C6-A544-C53B2771BB62" Created="2017-08-16 13:29:58 -0400" Modified="2017-09-25 06:37:36 -0400" Type="Folder">
-                                    <Title>Adventurer Allies</Title>
+                                <BinderItem ID="128" UUID="29278EA6-E3E9-4761-8356-124358FE1E4E" Created="2017-09-29 15:24:41 -0400" Modified="2017-09-29 15:24:43 -0400" Type="Folder">
+                                    <Title>Limsa Lominsa</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -145,8 +426,8 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem ID="110" UUID="A92504C7-EC71-436F-B64A-BC76E9D4DF32" Created="2017-09-25 06:37:48 -0400" Modified="2017-09-25 06:37:49 -0400" Type="Folder">
-                                            <Title>Tank</Title>
+                                        <BinderItem ID="134" UUID="6CE790D0-EED8-4129-B4C8-A51079BE0F99" Created="2017-09-29 15:27:41 -0400" Modified="2017-09-29 15:27:44 -0400" Type="Folder">
+                                            <Title>Kha Family</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -154,64 +435,58 @@
                                                 <Target Type="Words">0</Target>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem ID="57" UUID="D51AD378-507E-4FB3-BC86-0B0AAA5CBDB2" Created="2017-08-29 23:49:38 -0400" Modified="2017-09-29 13:50:06 -0400" Type="Text">
-                                                    <Title>Valére Hérisson</Title>
+                                                <BinderItem ID="135" UUID="9ABD5883-04B2-4132-9AD8-DB0EF11254C2" Created="2017-10-02 19:10:54 -0400" Modified="2017-10-03 14:54:32 -0400" Type="Text">
+                                                    <Title>Idertuuya Kha</Title>
                                                     <MetaData>
+                                                        <LabelID>6</LabelID>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                         <FileExtension>rtf</FileExtension>
+                                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>2510,0</TextSelection>
+                                                        <TextSelection>90,0</TextSelection>
                                                         <Target Type="Words">0</Target>
                                                     </TextSettings>
                                                 </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                        <BinderItem ID="111" UUID="9EE18594-158B-45D5-874D-7856D4680D5E" Created="2017-09-25 06:38:06 -0400" Modified="2017-09-25 06:38:13 -0400" Type="Folder">
-                                            <Title>DPS (War)</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <Target Type="Words">0</Target>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem ID="51" UUID="2797F0EA-F739-472B-AF79-3EFEDA9B724D" Created="2017-08-19 00:41:19 -0400" Modified="2017-09-04 19:56:11 -0400" Type="Text">
-                                                    <Title>Bradley Norwood</Title>
+                                                <BinderItem ID="142" UUID="DC42EE35-F9CC-457B-A66D-5D5690DF11BF" Created="2017-10-02 19:28:14 -0400" Modified="2017-10-02 19:28:27 -0400" Type="Text">
+                                                    <Title>Terbish Kha</Title>
                                                     <MetaData>
+                                                        <LabelID>6</LabelID>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                         <FileExtension>rtf</FileExtension>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>411,0</TextSelection>
-                                                        <Target Type="Words">0</Target>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem ID="58" UUID="15D7A542-EA81-4701-AC48-15F5E4BE294D" Created="2017-08-29 23:56:52 -0400" Modified="2017-09-25 06:47:53 -0400" Type="Text">
-                                                    <Title>Cherantai Borlaaq</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                        <FileExtension>rtf</FileExtension>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>278,0</TextSelection>
-                                                        <Target Type="Words">0</Target>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem ID="59" UUID="1CDD8148-0606-4429-BE58-48CAC4B4D800" Created="2017-08-30 00:01:05 -0400" Modified="2017-08-30 00:01:29 -0400" Type="Text">
-                                                    <Title>Bethany Arkwright</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                        <FileExtension>rtf</FileExtension>
+                                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <Target Type="Words">0</Target>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem ID="114" UUID="EDAE8273-9504-445B-9E42-FD2E87A397E3" Created="2017-09-25 08:56:33 -0400" Modified="2017-09-25 08:56:36 -0400" Type="Text">
-                                                    <Title>Nicol Grunenberg</Title>
+                                                <BinderItem ID="143" UUID="BD6EA783-0F77-4D68-9506-198CC9612714" Created="2017-10-02 19:28:15 -0400" Modified="2017-10-02 19:28:31 -0400" Type="Text">
+                                                    <Title>Oyuunchimeg Kha</Title>
                                                     <MetaData>
+                                                        <LabelID>6</LabelID>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <Target Type="Words">0</Target>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem ID="141" UUID="DFE2ED15-779F-454A-8730-18E9094AEAF1" Created="2017-10-02 19:28:10 -0400" Modified="2017-10-02 19:28:36 -0400" Type="Text">
+                                                    <Title>Edward Tanner</Title>
+                                                    <MetaData>
+                                                        <LabelID>6</LabelID>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <FileExtension>rtf</FileExtension>
+                                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <Target Type="Words">0</Target>
@@ -219,8 +494,8 @@
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem ID="112" UUID="B86ED4D6-4C88-4F01-A792-EB937B20E750" Created="2017-09-25 06:38:28 -0400" Modified="2017-09-25 06:38:31 -0400" Type="Folder">
-                                            <Title>DPS (Magic)</Title>
+                                        <BinderItem ID="144" UUID="24AAD0B8-8955-4AD4-B051-AAD80C528C03" Created="2017-10-02 19:29:17 -0400" Modified="2017-10-02 19:29:47 -0400" Type="Folder">
+                                            <Title>The Maelstrom &amp; Admiralty</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -228,54 +503,18 @@
                                                 <Target Type="Words">0</Target>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem ID="50" UUID="594CA775-9612-41CB-A600-6F93E8D1B45D" Created="2017-08-19 00:39:57 -0400" Modified="2017-09-04 19:59:13 -0400" Type="Text">
-                                                    <Title>Mihkhi Khamun</Title>
+                                                <BinderItem ID="139" UUID="9B1E783D-3FA9-4A76-B213-C2040188356B" Created="2017-10-02 19:19:38 -0400" Modified="2017-10-03 15:11:43 -0400" Type="Text">
+                                                    <Title>Merlwyb Bloefhiswyn </Title>
                                                     <MetaData>
+                                                        <LabelID>6</LabelID>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                         <FileExtension>rtf</FileExtension>
+                                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>1528,0</TextSelection>
-                                                        <Target Type="Words">0</Target>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem ID="117" UUID="D51BAAE8-5AB9-4821-9570-649D576937ED" Created="2017-09-25 08:56:58 -0400" Modified="2017-09-25 09:01:52 -0400" Type="Text">
-                                                    <Title>Jessica Etoile</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <Target Type="Words">0</Target>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                        <BinderItem ID="113" UUID="AAEE69B5-99F7-4EC3-9123-D9315F686BF1" Created="2017-09-25 06:38:45 -0400" Modified="2017-09-25 06:38:47 -0400" Type="Folder">
-                                            <Title>Support</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <Target Type="Words">0</Target>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem ID="49" UUID="B3B71D81-815F-479C-A4FD-CBF002057D00" Created="2017-08-16 13:30:23 -0400" Modified="2017-09-04 19:55:51 -0400" Type="Text">
-                                                    <Title>D'namis Tia</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                        <FileExtension>rtf</FileExtension>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>1328,0</TextSelection>
-                                                        <Target Type="Words">0</Target>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem ID="120" UUID="003B4FF6-6BEF-45B2-B9B9-3196D72EB553" Created="2017-09-25 09:02:11 -0400" Modified="2017-09-25 09:02:13 -0400" Type="Text">
-                                                    <Title>Singing Fury</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
+                                                        <TextSelection>459,0</TextSelection>
                                                         <Target Type="Words">0</Target>
                                                     </TextSettings>
                                                 </BinderItem>
@@ -283,105 +522,32 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="127" UUID="7D19018E-34AF-4F1F-B212-C7CBFF4E1BAC" Created="2017-09-29 15:24:07 -0400" Modified="2017-09-29 15:24:13 -0400" Type="Folder">
-                            <Title>Non-Player Characters</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="132" UUID="4F4B0E57-1608-4FE9-A0B1-F9FF56E39195" Created="2017-09-29 15:25:23 -0400" Modified="2017-09-29 15:25:28 -0400" Type="Folder">
-                                    <Title>Eorzea</Title>
+                                <BinderItem ID="129" UUID="F6A8DE17-FC15-4A11-ACDF-37723707A26C" Created="2017-09-29 15:24:46 -0400" Modified="2017-09-29 15:24:51 -0400" Type="Folder">
+                                    <Title>Ul'dah</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="121" UUID="14141B15-2AF4-4714-80AD-23C081888740" Created="2017-09-25 09:02:27 -0400" Modified="2017-09-25 09:02:31 -0400" Type="Folder">
-                                            <Title>Scions Of The Seventh Dawn</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <Target Type="Words">0</Target>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem ID="133" UUID="018E6D8E-E745-40AB-91F1-17353EB01BE9" Created="2017-09-29 15:25:59 -0400" Modified="2017-09-29 15:27:13 -0400" Type="Text">
-                                                    <Title>Minfilia Warde</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>1,0</TextSelection>
-                                                        <Target Type="Words">0</Target>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem ID="122" UUID="D83FE9B7-225C-41A1-B624-84F54C80B062" Created="2017-09-25 09:12:45 -0400" Modified="2017-09-29 15:26:49 -0400" Type="Text">
-                                                    <Title>Moenbryda Wilfsunnwyn</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>1675,0</TextSelection>
-                                                        <Target Type="Words">0</Target>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                        <BinderItem ID="128" UUID="29278EA6-E3E9-4761-8356-124358FE1E4E" Created="2017-09-29 15:24:41 -0400" Modified="2017-09-29 15:24:43 -0400" Type="Folder">
-                                            <Title>Limsa Lominsa</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <Target Type="Words">0</Target>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem ID="134" UUID="6CE790D0-EED8-4129-B4C8-A51079BE0F99" Created="2017-09-29 15:27:41 -0400" Modified="2017-09-29 15:27:44 -0400" Type="Folder">
-                                                    <Title>Kha Family</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <Target Type="Words">0</Target>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                        <BinderItem ID="129" UUID="F6A8DE17-FC15-4A11-ACDF-37723707A26C" Created="2017-09-29 15:24:46 -0400" Modified="2017-09-29 15:24:51 -0400" Type="Folder">
-                                            <Title>Ul'dah</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <Target Type="Words">0</Target>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="130" UUID="631B1A79-22A1-40C5-9EF1-2DD9428B1258" Created="2017-09-29 15:24:57 -0400" Modified="2017-09-29 15:24:59 -0400" Type="Folder">
-                                            <Title>Gridania</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <Target Type="Words">0</Target>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="131" UUID="4A3F33CE-B2B6-4C78-AE05-284B7130E3D5" Created="2017-09-29 15:25:03 -0400" Modified="2017-09-29 15:25:05 -0400" Type="Folder">
-                                            <Title>Ishgard</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <Target Type="Words">0</Target>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="130" UUID="631B1A79-22A1-40C5-9EF1-2DD9428B1258" Created="2017-09-29 15:24:57 -0400" Modified="2017-09-29 15:24:59 -0400" Type="Folder">
+                                    <Title>Gridania</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="131" UUID="4A3F33CE-B2B6-4C78-AE05-284B7130E3D5" Created="2017-09-29 15:25:03 -0400" Modified="2017-09-29 15:25:05 -0400" Type="Folder">
+                                    <Title>Ishgard</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -689,6 +855,15 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
+                <BinderItem ID="162" UUID="7FB19CE7-9D7A-422E-B0DA-D2DFCAC38CA3" Created="2017-10-03 15:22:18 -0400" Modified="2017-10-03 15:22:20 -0400" Type="Text">
+                    <Title>Timeline</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="52" UUID="9A1EC386-9B9A-4AE8-A7E8-90F71631B0C8" Created="2017-08-20 19:50:57 -0400" Modified="2017-08-20 20:46:54 -0400" Type="Text">
                     <Title>Future Ideas</Title>
                     <MetaData>
@@ -703,6 +878,7 @@
                     <Title>Languages of Hydaelyn</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>1701,0</TextSelection>
@@ -735,7 +911,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="25" UUID="C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A" Created="2014-06-12 01:52:57 -0400" Modified="2017-09-29 14:37:34 -0400" Type="Text">
+                <BinderItem ID="155" UUID="3C3AA5C9-13FA-41B4-961E-15E149D1AF05" Created="2017-10-02 19:53:37 -0400" Modified="2017-10-02 19:53:37 -0400" Type="Text">
                     <Title>Character Sketch</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
@@ -746,14 +922,8 @@
                         <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>436,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
-                    <CorkboardAndOutliner>
-                        <CorkboardSettings>
-                            <FreeformMode>Yes</FreeformMode>
-                        </CorkboardSettings>
-                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="24" UUID="23A06CD3-648A-45E0-AD6E-19BCBC457E00" Created="2014-06-12 01:52:57 -0400" Modified="2014-06-12 01:52:57 -0400" Type="Text">
                     <Title>Setting Sketch</Title>
@@ -784,191 +954,47 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="98" UUID="F3561344-4EC5-4798-96A3-1957984B07FB" Created="2017-09-25 05:23:56 -0400" Modified="2017-09-25 05:23:56 -0400" Type="Text">
-                    <Title></Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="100" UUID="70401DB3-66E7-43D8-9B86-855ACC95953C" Created="2017-09-25 05:24:16 -0400" Modified="2017-09-25 05:24:16 -0400" Type="Folder">
-                    <Title>Ranged-1</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="101" UUID="74DAAF9C-8A5E-48FB-93F0-4D5271B8D938" Created="2017-09-25 05:24:16 -0400" Modified="2017-09-25 05:24:16 -0400" Type="Folder">
-                            <Title>Musketeer (MSK)</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="86" UUID="60B38D99-63C3-4629-B6D3-B31E1F1B90E2" Created="2017-09-25 05:11:34 -0400" Modified="2017-09-25 05:11:41 -0400" Type="Folder">
-                    <Title>Specializations</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="88" UUID="168677FF-FA2F-4993-B619-2FE3BCCD2242" Created="2017-09-25 05:11:55 -0400" Modified="2017-09-25 05:11:58 -0400" Type="Folder">
-                            <Title>Corsair (COR)</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="56" UUID="AF29FCC7-055C-4EC2-8820-8099E8470320" Created="2017-08-29 23:49:15 -0400" Modified="2017-08-29 23:49:18 -0400" Type="Folder">
-                    <Title>Adventurers</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="53" UUID="92773745-E4C8-46AA-9219-0F5BC4CB9311" Created="2017-08-29 23:37:09 -0400" Modified="2017-08-29 23:37:27 -0400" Type="Folder">
-                    <Title>Prologue 1: Flight</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="54" UUID="61763269-D10F-4C2E-83EB-DB863AFCAEB1" Created="2017-08-29 23:38:46 -0400" Modified="2017-09-04 20:00:06 -0400" Type="Text">
-                            <Title>The Escape</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>15858,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                            <Keywords>
-                                <KeywordID>1</KeywordID>
-                                <KeywordID>2</KeywordID>
-                            </Keywords>
-                        </BinderItem>
-                        <BinderItem ID="55" UUID="A450002F-0F53-4ACE-B79D-D3526315839A" Created="2017-08-29 23:42:20 -0400" Modified="2017-09-05 08:19:28 -0400" Type="Text">
-                            <Title>Arriving in Eorzea</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>19309,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                            <Keywords>
-                                <KeywordID>1</KeywordID>
-                                <KeywordID>2</KeywordID>
-                            </Keywords>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="73" UUID="7C4AE024-3F1E-4D92-BB7C-BCB593E8D238" Created="2017-09-05 08:19:40 -0400" Modified="2017-09-05 08:19:53 -0400" Type="Folder">
-                    <Title>Prologue 2: Settling Down</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="115" UUID="285BC106-C2CB-4BC4-9D52-DFDB7C03D2ED" Created="2017-09-25 08:56:47 -0400" Modified="2017-09-25 08:56:47 -0400" Type="Folder">
-                    <Title>DPS (Magic)-1</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="116" UUID="A5047B5A-1DDB-4D27-8CDB-DCC5558458C0" Created="2017-09-25 08:56:47 -0400" Modified="2017-09-25 08:56:47 -0400" Type="Text">
-                            <Title>Mihkhi Khamun</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="118" UUID="D84F6FAA-D1C3-4E41-8BC6-99CCD6286549" Created="2017-09-25 09:02:06 -0400" Modified="2017-09-25 09:02:06 -0400" Type="Folder">
-                    <Title>Support-1</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="119" UUID="99CA38BC-F7D7-4778-80D2-4A67D7EC4000" Created="2017-09-25 09:02:06 -0400" Modified="2017-09-25 09:02:06 -0400" Type="Text">
-                            <Title>D'namis Tia</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="124" UUID="4A8EF275-6113-4086-B51D-573B39370353" Created="2017-09-29 14:35:41 -0400" Modified="2017-09-29 14:35:45 -0400" Type="Text">
-                    <Title>Baatarsaikhan Kha</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="125" UUID="01CA1245-7FBE-4BB5-9FBF-AF5C6FF44B9F" Created="2017-09-29 14:36:07 -0400" Modified="2017-09-29 14:37:01 -0400" Type="Text">
-                    <Title>Baatarsaikhan Kha</Title>
-                    <MetaData>
-                        <LabelID>6</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>rtf</FileExtension>
-                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>406,0</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="42" UUID="E7215F27-F1E7-4988-B28A-017EB933DC4F" Created="2017-07-20 20:26:56 -0400" Modified="2017-09-29 13:59:16 -0400" Type="Text">
-                    <Title>Baatarsaikhan Kha</Title>
+                <BinderItem ID="43" UUID="8EC082C9-BCDF-4976-B729-69166CFB75D8" Created="2017-07-20 20:27:04 -0400" Modified="2017-09-04 20:01:52 -0400" Type="Text">
+                    <Title>Momolk Molkoh</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>658,1589</TextSelection>
+                        <TextSelection>65,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Keywords>
-                        <KeywordID>2</KeywordID>
+                        <KeywordID>3</KeywordID>
+                    </Keywords>
+                </BinderItem>
+                <BinderItem ID="44" UUID="F656649F-64CC-4ECB-BB7C-9F68CBDFF131" Created="2017-07-20 20:27:12 -0400" Modified="2017-09-04 20:01:41 -0400" Type="Text">
+                    <Title>Xomni'to Molkoh</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>234,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Keywords>
+                        <KeywordID>4</KeywordID>
+                    </Keywords>
+                </BinderItem>
+                <BinderItem ID="45" UUID="6F1597A5-E000-4E74-9031-6064787E657A" Created="2017-07-20 20:28:01 -0400" Modified="2017-09-04 20:01:47 -0400" Type="Text">
+                    <Title>Kanna Minamoto</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="279">195,84</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Keywords>
+                        <KeywordID>5</KeywordID>
                     </Keywords>
                 </BinderItem>
             </Children>
@@ -1159,7 +1185,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1611" Characters="9703" Date="2017-09-29 13:43:04 -0400"/>
+        <PreviousSession Words="3047" Characters="20543" Date="2017-10-02 19:10:19 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
